@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1776441704917190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4054588214951850}
+  - component: {fileID: 114279212649171774}
+  m_Layer: 0
+  m_Name: Human fighter description pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4054588214951850
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114279212649171774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1676576818, guid: 92b22081e557a6b4d95662eaa9d01431, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showChances: 0
+  ignoreNulls: 0
+  ignoreTypeMismatches: 0
+  items:
+  - A retired ship security officer. Exceptional sharpshooter.
+  - A drugs-club security guard. Master of armed combat.
+  - A land warfare soldier with numerous awards. Never drove a ship.
+  - A law enforcement specialist. Well-versed in using handweapons.
+  - A retired security guard. Enjoys speaking in verses.
+  - A retired soldier. Has not let go of their past.
+  - An old martial arts teacher. Expert with handguns.
+  - A military teacher. Loves hunting drones.
+  - An old law guardian. Expert in using all handweapons.
+  - A neo-samurai. Has killed many in numerous wars. Very peaceful.
+  - An ex-sergeant who never got any of his soldiers killed.
+  - A professional marine. Expert at using handguns.
+  - A professional marine. Augmented eyes.
+  - A professional marine. Augmented eyes and hand muscles.
+  - Survivor from a Slaver ship. Horrible scars across the body.
+  - A Security-monk. Has great sense of humor.
+  - A Defence monk. Highly respected by everyone.
+  - A celebrated star of drone hunting games. Despises animal hunters.
+  - A veteran ex-soldier. Scars from physical violence.
+  - A War monk. Mostly meditates in free time.
+  - A warrior aspiring to become the ultimate fighting machine.
+  - A military instructor known for his gentleness. Good with handguns.
+  - A seeker of truth and justice. Highest-level tactical combat training.
+  - A heavily genetically modified warrior. Does not understand music.
+  - A humanist tired of widespread injustice. High-level military training.
+  - Survivor found in a cryopod. No memories, but expert with handguns.
+  - An Ethical Violence teacher. Expert with handguns.
+  - A special operations sharpshooter. Past shrouded in mystery.
+  - A Respect monk. Eats with hands. Good with handguns.
+  - A Security monk with eye-augments. Wants to have his own temple.
+  - A highly trained marine. Likes to share war stories.
+  - An experienced Love & Security monk, liked by everybody on the ship.
+  - An ex-law guardian. Quit because of corruption.
+  - A close-combat specialist. Once shot down a battleship with a handgun.
+  - A successful martial artist. Has never hurt anybody.
+  - A retired security specialist. Now likes mentoring younger people.
+  - An ex-slave looking for revenge against all Slavers.
+  - A very old martial artist. Has only ~90 years left to live.
+  - A retired war mutants breeder. Has only ~100 years left to live.
+  - A veteran law guardian who escaped from assassins.
+  - A retired mercenary. Never killed a single person.
+  - A retired mercenary. Once survived a direct hit with nuke.
+  - Empathy teacher. Scars from physical violence. Handgun training.
+  - An old death artist. Seeks a meaningful death.
+  - An old Death Dancer. Seeks a beautiful death.
+  - A Death monk. Writes poetry about bad weather.
+  - An old Death monk. Wants to die in combat.
+  - An ex-assassin. Specialized in jobs against organized crime.
+  - A security specialist whose corporation was annihilated.
+  - A guild security guard whose guild was destroyed.
+  dontLocalizeHint: 0
+  maxLengthHint: 250
+  prefabId: 1847560398

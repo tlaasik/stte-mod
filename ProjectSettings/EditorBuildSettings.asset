@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/RST/FirstGameLoad.unity
+    guid: b6775d4d6bd1f2343813b064469f7a4f
+  - enabled: 1
+    path: Assets/RST/Title.unity
+    guid: bd9c2cbf22f56e9418b5ecc0ddc63c23
+  m_configObjects: {}

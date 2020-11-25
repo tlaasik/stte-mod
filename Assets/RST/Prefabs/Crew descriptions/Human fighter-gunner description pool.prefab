@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1776441704917190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4054588214951850}
+  - component: {fileID: 114279212649171774}
+  m_Layer: 0
+  m_Name: Human fighter-gunner description pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4054588214951850
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114279212649171774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1676576818, guid: 92b22081e557a6b4d95662eaa9d01431, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showChances: 0
+  ignoreNulls: 0
+  ignoreTypeMismatches: 0
+  items:
+  - A retired ship's officer. Has exceptional manners.
+  - A soldier who was stationed on a planetary cannon. Good with guns of all kind.
+  - A young soul trying to prove themselves. Excellent at aiming with big guns.
+  - A crime reduction scientist. Well-versed in gunnery & handguns.
+  - A retired ship officer. Experienced in using handguns & ship weapons.
+  - A retired space ship marine. Ashamed of something in their past, now long gone.
+  - A fortune seeker who embraces the unknown. Not bad with guns.
+  - A professional Player. Loves hunting drones, not bad with guns.
+  - A gambler without unpaid debts. Military training.
+  - A young neo-samurai. A bit edgy, but never crosses any lines.
+  - A weapon salesman. Has some experience shooting them as well.
+  - A sex artist looking for new experiences. Good at guns & gunnery.
+  - An ex-ship commander who got her team killed. Has forgiven herself.
+  - A professional crewman, just doing their job. Good handgun training.
+  - A Security-monk looking to become an android. Excellent in using weapons.
+  - A drifter with a very modest midlife crisis. Military training.
+  - A spiritual nomad. Good with weapons of all types.
+  - An ex-soldier. Scars from physical violence.
+  - A war refugee. Brilliant cook. Good at shooting guns.
+  - A warrior looking to become a dancer. Excellent sharpshooter.
+  - Innocent clone of a person wanted for murder. Military training.
+  - A seeker of truth and justice. Military training.
+  - A spiritual rebel. Likes unhealthy food & target practice.
+  - A humanist tired of widespread injustice. Military training.
+  - Survivor found in a cryopod. No memories, but good with guns.
+  - A Minimalism monk. Eats with hands. Has a perfect aim.
+  - A special operation sharpshooter. Past shrouded in mystery.
+  - A Respect monk. Eats with hands. Good with guns.
+  - A hard-working Security monk. Wants to have his own temple.
+  - A military dropout who failed the gunnery exam.
+  - An experienced Love & Security monk, liked by everybody on the ship.
+  - A fighter pilot, banished because of too many mistakes.
+  - A close-combat specialist. Once shot down a battleship with handgun.
+  - A modern martial artist. Has never hurt anybody.
+  - A failed low-level General. The story involves nukes.
+  - An ex-law guardian. Quit because of corruption. Good with handguns.
+  - A Perfectionism monk. Far from perfect.
+  - A retired empathy-teacher. Scars from physical violence.
+  - A full-time hedonist. Great at dancing and martial arts.
+  - A retired security specialist. Now likes mentoring younger people.
+  - An existence observer. Says this reality is 7 out of 10.
+  - An ex-slave looking for revenge against all slavers.
+  - Body modifications artist. Eyes have weapon-targeting booster mods.
+  - A very old martial artist. Has only ~90 years left to live.
+  - An adventurer, raised by the Gor-Mor. Knows Gor-Mor fighting styles.
+  - A professional poet. Also knows how to use swords & pistols.
+  - A musician who gave up music to learn shooting guns instead.
+  - A retired war mutants breeder. Has only ~100 years left to live.
+  - A law guardian who escaped from assassins.
+  - A young martial artist on their first adventure. Slightly hypersexual.
+  - A Sex monk looking for new experiences. Loved by the crew.
+  - A professional crewman, wants to get it over with.
+  - A retired drug conoisseur. Wants to become a law-guardian.
+  - Anarchist law-teacher. Taking this whole thing as a vacation.
+  - A retired mercenary. Retired after first kill in combat.
+  - A retired mercenary. Never killed a single person.
+  - A retired mercenary. Once survived a direct hit with nuke.
+  - A mercenary on adventure. Wants to learn alien fighting styles.
+  - Empathy teacher. Once killed a slaver with bare hands.
+  - Empathy teacher. Scars from physical violence. Good with guns.
+  - A professional storyteller. Most stories are about love & sex.
+  - A mercenary on an adventure. Has complete control of emotions.
+  - A young death artist. Scars from physical violence.
+  - An old death artist. Seeks a beautiful death.
+  - An old death artist. Seeks a meaningful death.
+  - A Death monk. Writes poetry about guns.
+  - An old Death monk. Wants to see death up-close.
+  - A young death artist. Scars of physical violence.
+  - An ex-assassin. Specialized in providing illegal voluntary euthanasia.
+  - A young philosopher. Once killed a slaver with bare hands.
+  - A young security scientist. Already famous for being hot.
+  - A corporate guard whose corporation was annihilated.
+  - An archeologist interested in ancient alien fighting styles.
+  - A security guard whose client was killed. Neo-Buddhist.
+  - Ex-smuggler. Has regular nightmares. Trains shooting guns daily.
+  - A neo-daoist. Meditates and has a lot of sex. Good at martial arts.
+  - A neo-daoist. Years of martial arts training. Deeply calming voice.
+  - A Vexian who transplanted her brain into a human body. No regrets.
+  - A retired cyberwarrior. Borderline paranoid.
+  - A retired GuGurkian translator. Knows Gugurkian fighting styles.
+  - A retired human/Vexian translator. Scars of physical violence.
+  - A retired professional favor recollector. Scars from physical violence.
+  - A retired professional favor recollector. Never hurt anybody.
+  - A professional storyteller. Most stories are about violence.
+  - A professional storyteller. Most stories are about freedom.
+  - A professional storyteller. Most stories are about sincerity.
+  - Ex-smuggler. Borderline paranoid. Never leaves his weapons.
+  dontLocalizeHint: 0
+  maxLengthHint: 250
+  prefabId: 576556414

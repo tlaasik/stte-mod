@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1776441704917190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4054588214951850}
+  - component: {fileID: 114279212649171774}
+  m_Layer: 0
+  m_Name: Crew name pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4054588214951850
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114279212649171774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1676576818, guid: 92b22081e557a6b4d95662eaa9d01431, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showChances: 0
+  ignoreNulls: 0
+  ignoreTypeMismatches: 0
+  items:
+  - Aeon Flax
+  - Ripley Connors
+  - Richard Tworek
+  - Sigourney Weaver
+  - Eleanore Ripley
+  - Jessy Fine
+  - Danger Dave
+  - Arron Cromar
+  - John Smithy
+  - Emil Schwanke
+  - Elron Ember
+  - Lizette Taylory
+  - Sarah Connors jr
+  - John Rotschild
+  - Theresa Maybe jr
+  - Edwin Gardenland
+  - Hal Machinefriend
+  - Brad Pity
+  - Bombwald Dresden
+  - Tyan-Anmen Massac
+  - Daoxian Massac
+  - Nanking Massac
+  - Elaia Musk
+  - Kuo Min Tang
+  - Erik Sith
+  - Stanley Kubrick
+  - Denver Tamm
+  - Norris Catalonia
+  - Thomas Laserik
+  - Levar Lochmus
+  - Dave Equalman
+  - Brain Boar
+  - Jeffrey Scheffer
+  - Mike Owski
+  - Iane Banks jr
+  - Oswald Ockham
+  - Gabe Funky
+  - Bennie Lotman
+  - Jeromy Kush
+  - Eddie Silver
+  - Elroy Nova
+  - Maya More
+  - Elmo Kush
+  - Lesley Zig
+  - Sebastian Wixom
+  - Shaun Sativa
+  - Byron Schweitzer
+  - Alia Fairmind
+  - Shelby Welling
+  - Corine Wally
+  - Lesa Fetters
+  - Tora Glass
+  - Ben Seconds
+  - Kong Fleshman
+  - Martin Liedemann
+  - Maggie Lines
+  - Xanna Ruleson
+  - Obrienne Starfield
+  - Kevin Pollock
+  - Niels Vader
+  - Elane Mccarter
+  - Saturnia Bannister
+  - Elsa Einstein
+  - Saskia Goodwill
+  - Wolfmoon
+  - Animatio-N.Dud
+  - More-THE-N3
+  - MetalCanyon
+  - Nookrium
+  - Enter_Elysium
+  - Tortuga Power
+  - MouseGunner
+  - Cohh Carnage
+  - Duncan
+  dontLocalizeHint: 1
+  maxLengthHint: 0
+  prefabId: 1710779352

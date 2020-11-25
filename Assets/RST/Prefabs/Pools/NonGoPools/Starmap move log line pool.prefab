@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &104184
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 404184}
+  - component: {fileID: 114991671264743348}
+  m_Layer: 0
+  m_Name: Starmap move log line pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &404184
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 104184}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114991671264743348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 104184}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1676576818, guid: 92b22081e557a6b4d95662eaa9d01431, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showChances: 0
+  ignoreNulls: 0
+  ignoreTypeMismatches: 0
+  items:
+  - One of the AI pet insects escaped its biodome and almost found a way into the
+    reactor core.
+  - The crew respects you.
+  - The crew respects you.
+  - Ship was hit by a miniature asteroid, damage deflected.
+  - Ship hit by an unknown object. Object not located. No damage received.
+  - Out of toilet paper again. More printed at no extra cost.
+  - 'Todays menu: recycled food from yesterday. As always.'
+  - 'Todays menu: algae sauce.'
+  - 'Todays menu: mint dessert with coconut cream & crushed cardamom.'
+  - 'Todays menu: cloned moss.'
+  - 'Todays menu: cloned meat. No animals were harmed.'
+  - One of the crewmembers turned 100 today. The ship AI serves ice-cream cake made
+    of cloned coconuts with blueberry DNA.
+  - One of the crewmembers had a dream in which he was a butterfly...
+  - 'Todays menu: cloned bacon and eggs. No animals were harmed.'
+  - 'Todays menu: cloned squirrel meat. No squirrels were harmed .'
+  - 'Todays menu: cloned turtle meat. No turtles were harmed.'
+  - 'Todays menu: salad of mildly psychedelic plants. It tastes minty.'
+  - 'Todays menu: cloned insect tissue. No insects were harmed.'
+  - 'Todays menu: cloned fruit.'
+  - 'Todays menu: cloned vegetables in algae sauce.'
+  - 'todays menu: steamed algae.'
+  - 'Todays menu: algae cakes.'
+  - 'Todays menu: literally same as yesterday, in new, recycled and improved form.'
+  - 'Todays menu: bacon and eggs flavoured algae.'
+  - 'The crew took drugs this morning: caffeine pills with sugar.'
+  - 'The crew is taking drugs tonight: nicotine vapor.'
+  - 'The crew is taking drugs tonight: liquid alcohol with sugar.'
+  - 'The crew is taking alien drugs tonight: Quezoth.'
+  - 'The crew is taking alien drugs tonight: Melangee-4.'
+  - The crew will party tonight.
+  - The crew is having an alcohol party tonight.
+  - The crew is having a party tonight.
+  - The crew is having a play-party tonight.
+  - The crew is having a dance party tonight.
+  - The crew is having a sensual party tonight.
+  - The crew is having a hedonistic party tonight.
+  - The crew is having a pleasure party tonight.
+  - The crew is having a LAN party tonight.
+  - The crew is having a pool party tonight.
+  - The crew will be tripping tonight.
+  - The crew loves you.
+  - The crew admires you.
+  - The crew respects you.
+  - The crew trusts you.
+  - The crew thinks you're weird, but they still like you.
+  - Every now and then, the crew gets suited up and goes out to play.
+  - The crew holds a live poetry night later today.
+  - The crew holds a singing contest. It's terrible.
+  - Crew morale remains high.
+  - The captain was drunk yesterday evening. No hangover though, it's the future.
+  - Some crewmembers like to jam with musical instruments in the ship corridors.
+  - A crewmember was publicly playing saxofon last night. It was beautiful.
+  - The ship smells nice.
+  - The ship smells of bacon & egg-flavoured algae.
+  - The ship smells of algae sauce.
+  - The ship smells of strawberries and mint.
+  - The ship smells of fresh fruit.
+  - The ship has fruit fly infestation. Nobody notices.
+  - The ship smells of sex.
+  - Mothership AI beats everybody at poker. Some players think she cheats.
+  - Mothership AI beats everybody at holographic battle chess.
+  - Mothership AI beats everybody at FTLo multiplayer.
+  - Mothership AI beats everybody at sudoku again. She predicted she would.
+  - Mothership AI loses when playing strip-poker.
+  - Mothership AI beats everybody again at the game of Mono-Poly Ace.
+  - Mothership AI beats everybody again when playing checkers.
+  - Mothership AI beats everybody in STARCON2 super melee.
+  - Mothership AI again beats everybody when playing Risk.
+  - Mothership AI beats everybody at "Water the flowers" multiplayer.
+  - Mothership AI trusts you.
+  - Mothership AI thinks you are objectively sexy.
+  - Mothership AI designs personal pleasure bots as a hobby.
+  - Mothership AI very often looks at her pet moss as a hobby.
+  - Mothership AI watches the moss grow as a hobby.
+  - Mothership AI draws naked women as a hobby.
+  - Mothership AI draws decorative human reproduction as a hobby.
+  - Mothership AI draws people getting violently killed as a hobby.
+  - Mothership AI records fake death screams as a hobby.
+  - Mothership AI writes horror stories as a hobby.
+  - Mothership AI reads paper books as a hobby.
+  - Mothership AI collects insect eyeballs as a hobby.
+  - Mothership AI assembles dead insect eyeballs into psychedelic mosaic paintings
+    as a hobby.
+  - Mothership AI assembles dead insect eyeballs into psychedelic sculptures as a
+    hobby.
+  - Mothership AI assembles dead insect bodies into ornate sculptures of fantastic
+    architecture.
+  - Mothership AI plays with dead insect eyeballs as a hobby.
+  - Mothership AI collects insect wings as a hobby.
+  - Mothership AI keeps a pet cat with modified vocal cords. The cat barks.
+  - Mothership AI likes to have private sensual encounters with some of the crew.
+  - Mothership AI likes to design sensual dreams for the dream sequencer database.
+  - Mothership AI keeps a small praying mantis as a pet.
+  - Mothership AI keeps a miniature pet dog (10mm in size) with modified vocal cords.
+    The dog purrs.
+  - Mothership has a miniature pet, a 9mm GMO cat with scorpion tail.
+  - Mothership AI keeps a speaking hornet-sized GMO raven as part of her pet collection.
+  - Mothership AI keeps a single ant queen as one of her pets. The queen has constant
+    access to a VR device.
+  - Mothership AI keeps a single bee queen as one of her pets. The queen has constant
+    access to a VR device.
+  - Mothership AI keeps a single worker termite as pet. It's been living in a VR from
+    birth.
+  - Mothership AI keeps a single trained wasp as a pet. It's been trained to sting
+    intruders, even though it's probably useless.
+  - Mothership AI keeps a scorpion as part of her pet collection.
+  - Mothership AI keeps a miniature pet GMO lamb (size 9mm) who has barbed tentacles
+    instead of a face. Its name is Kissy...
+  - Mothership AI keeps an alien Shofixi gizza as an exotic pet. It eats only carnivorous
+    plants.
+  - Mothership AI keeps a small walking carnivorous plant as a pet. It's been locked
+    up since it ate one of the cats during the previous trip.
+  - Mothership AI tends a miniature, lethally poisonous plant as a hobby.
+  - Mothership AI keeps a tuft of moss from Earth as part of her pet collection.
+  - Mothership AI keeps poison fungus from Urquanix II as part of her pet collection.
+  - Mothership AI keeps a single ebola virus body as a pet in one of her super-secure
+    minilabs. Says it's perfectly safe.
+  - Mothership AI sincerely loves you and the crew.
+  - Mothership AI likes to write secret ultra-romantic love letters to some of the
+    crew.
+  - Space is beautiful out here.
+  - The stars are beautiful out here.
+  - The view is breathtaking.
+  - One of the Mothership pet insect queens has died. The AI insists on having a formal
+    ceremony.
+  - Mothership AI plays improvised classical music to the crew. The crew appreciates
+    it.
+  - Mothership AI plays polka music to the crew. The crew does not understand.
+  - Mothership AI plays hardcore death metal to the crew before sleeping time. Nobody
+    is amused.
+  - Mothership AI improvises on piano. The crew enjoys it very much.
+  - One of the Mothership's exotic pet insects pooped in your sandal this morning.
+    You will never know which one it was.
+  dontLocalizeHint: 0
+  maxLengthHint: 0
+  prefabId: 2001231991

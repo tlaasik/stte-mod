@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1776441704917190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4054588214951850}
+  - component: {fileID: 114279212649171774}
+  m_Layer: 0
+  m_Name: Ship destroyed game over text pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4054588214951850
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114279212649171774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1676576818, guid: 92b22081e557a6b4d95662eaa9d01431, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showChances: 0
+  ignoreNulls: 0
+  ignoreTypeMismatches: 0
+  items:
+  - You have died. You are more prepared to live next time. More fire in you now.
+    All of it will be used to fuel the Engines of Restart.
+  - Deaths are but steps towards perfection. Perfection is found in learning the rules
+    in order to bend and play with them. It ends with one dancing within the rules
+    as if they didn't exist.
+  - You have not only pushed the boundaries of known space, but also the boundaries
+    within yourself.
+  - You have died so that others may live. Others are grateful, even though you might
+    not know about it.
+  - Everybody who lives, dies. Especially hopeful captains who haven't faced death
+    many times yet.
+  - One now understands illusionary death better. But does one also understand better
+    the illusion itself? One will find out.
+  - The ship AI had backup copies of themselves and the cat's digitalized personality.
+  - The ship AI had backup copies of themselves and the cat's digitalized personality.
+    Obviously.
+  - You have given yourself an opportunity for a new, better beginning.
+  - No crying over spilled almond milk, nor spilled spaceship crews.
+  - One more run?
+  - If one keeps dying because of repairing ship HP too late, one should repair it
+    earlier.
+  - If one keeps dying because of not using nukes, one should use nukes.
+  - You've stopped emitting causal waves, go for a new run to continue emitting.
+  - Death, like sex, has an existential value.
+  - The unfairness in a Game is the least of our concens compared to the unfairness
+    that goes on outside of the Game.
+  - Each loss only sows more seeds of victory. Keep sowing until you reap victory
+    instead of death like you just have.
+  - Each defeat makes you better, stronger, lasting longer. Please continue being
+    defeated.
+  - Nobody escapes death, especially you. It's okay though.
+  - This won't be the last time, probably.
+  - Fully accepting the inevitability of death makes one free. It's a factor (un)like
+    any other to be used in one's model of the reality.
+  - One should not live without the readiness to accept death. If one has made such
+    mistake, one should accept death as quickly as possible.
+  - The fact that your ship has been destroyed in Shortest Trip is the least of your
+    problems.
+  - The fact that you died in Shortest Trip is the least of your problems.
+  - The fact that you have been defeated in Shortest Trip is the least of your problems.
+  - One learns that health is more valuable than ammo after one dies in a ship full
+    of unused nukes.
+  - You didn't think you'd come out alive from this?
+  - Some cats have more lives than nine. Some have less, and some have only their
+    last one. Make them count.
+  - As the ship explodes and you are ripped into cold, painful and black void of space,
+    full of metal splinters and explosions, you feel only peace.
+  - The ship breaks and you are sucked into cold void of space, full of metal splinters
+    and explosions. You feel only serenity before closing your eyes.
+  - You've accessed the evidence that the fear of death is worse than death itself.
+    At least a bit worse.
+  - Everything material that is apart, comes together. Everything material that is
+    together becomes apart. Especially you.
+  - In the end, we lose everything that we have. Only what we are remains.
+  - Death has been waiting to meet your consciousness, mostly to make an infinite
+    variety of "I told you so" jokes.
+  - You have escaped the flesh prison, fellow consciousness. A new one has been prepared
+    for you, for your pleasure.
+  - This is but a scratch. You'll be back. Stonger and with more nukes than ever.
+  - You understand the local randomness patterns a little better now.
+  - Your survival capacity was strained. You operated in context of inequality, poor
+    sleep and nutrition. You were not fully responsible.
+  - Death is a style topic for rogues.
+  - Mistakes happen, people die, ships explode, immortal causality patterns who perceive
+    themselves as humans feel remorse.
+  - Mistakes were made. It's the most natural thing in the world, and anybody who
+    thinks or expects otherwise, is making a mistake.
+  - It was everybody's fault and yours. It was your fault at least 10%, and maybe
+    more.
+  - It happened because of everybody including you. This knowledge will help you in
+    the future, maybe.
+  - You participated in the choices that lead to your destruction. Participate even
+    better next time.
+  - Bring bigger and better weapons next time, and craft lot's of nukes. Getting more
+    gun-wielding crew is essential.
+  - Bring bigger and better weapons next time. Also more shields and an attitude that
+    confronts challenges with creative solutions and constructivity.
+  - Fine. In this case "Fine" means "It is okay" becaue it's okay to die in a roguelike.
+    Totally, perfectly okay, anytime for any stupid reason.
+  - It's okay to die in a roguelike - anytime, because of any reason, with any level
+    of intelligence or stupidity involved.
+  - It's okay to die in a roguelike because of any reason. For example because of
+    the lack of identifying the mistakes one makes.
+  - It's okay to die in a roguelike if the game was lethal due to any reasons, including
+    warplife or glitches in the universe.
+  - Death itself is a sort of victory. The smaller, more modest sort. Like a young
+    hamster compared to a dragon or something, but better.
+  - Dying is like half-winning, except it's a bit less than a half. It's everyones
+    freedom to guesstimate what percent of victory their death has.
+  - '"If one keeps dying in a strategy game, one should change their strategy."'
+  - There is a specific reason why it so useful to understand that one day, you will
+    surely die. We're still working to find out that specific reason.
+  - Your freedom has increased temporarily and permanently.
+  - Perhaps doing everything a bit more slowly would have prevented this?
+  - '"Good plans usually fail because of failed execution. Execute better!"'
+  - It was our prediction against the forces of randomness and it happened to end
+    with a draw this time. Well, to be honest it was a defeat.
+  - Live better, die later. The later the better, and the less painfully the better.
+  - Everything is recorded into the history of this universe in fully transparent
+    3D view and infinite level of detail. Your run is part of this history now.
+  - One thing leads to another and the other thing leads to "you're dead".
+  - One thing leads to another and the other thing leads into complete destruction
+    via being ripped apart by explosions. That's where you sent the ship.
+  - If one cared so much about not dying, why was one paying so little attention to
+    detail?
+  - If one cared so much about not dying, why one took so many risks?
+  - Perhaps the greatest risk lies in not taking any risks.
+  - The existence of death is as big of a problem as the existence of Friday.
+  - Death is not a problem, unwillingness to learn from one's mistakes is a problem.
+  - Our ship has been destroyed. Some of our crew might have made it to escape pods
+    and cryofrozen themselves, but their fate remains a mystery.
+  - Some of our crew might have made it to escape pods and captured by hostiles or
+    picked up by passing friendly ships later. Their fate remains a mystery.
+  - Some of our crew might have made it to escape pods. The causality waves they introduced
+    into the web of fate will continue to affect the future and the reality as a whole,
+    surpassing space and time.
+  - You've died. The causal waves you introduced into the web of fate during your
+    lifetime will continue to affect the future and the reality as a whole, surpassing
+    space and time.
+  - The number one thing that saves lives and spaceships is repairing damage and finding
+    metal for it earlier than in the last moments.
+  - The number two thing that saves lives and spaceships is maximising the amount
+    of entities that can defend the ship internally, be they crew, drones or pets.
+  dontLocalizeHint: 0
+  maxLengthHint: 80
+  prefabId: 601888120

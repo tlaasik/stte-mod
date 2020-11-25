@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1776441704917190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4054588214951850}
+  - component: {fileID: 114279212649171774}
+  m_Layer: 0
+  m_Name: Tips pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4054588214951850
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114279212649171774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1676576818, guid: 92b22081e557a6b4d95662eaa9d01431, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showChances: 0
+  ignoreNulls: 0
+  ignoreTypeMismatches: 0
+  items:
+  - Any damage to ship module makes it completeley nonfunctional.
+  - Damaging enemy shield module cancels all the shield effects it produces.
+  - Damaging enemy weapons right before their loading finishes is pretty useful.
+  - Neutralize enemy shields with brute laser firepower if hitting their shield module
+    is unlikely.
+  - Older engines and reactors may sometimes malfunction and cause fires.
+  - Crewmembers with above-average moving speed usually make good fire safety officers.
+  - Selecting crew is a lot easier if you drag a selection box around the individual
+    instead of clicking.
+  - Older weapons and missiles tend to use excessive amounts of explosives.
+  - You learn that hitpoints are more valuable than ammo after you've died a few times
+    because of trying to save a nuke.
+  - You learn that hitpoints are more valuable than ammo after you've died a few times
+    in a ship armed with nukes.
+  - Crew with gunnery skill increases accuracy of ship weapons they operate.
+  - Older modules can sometimes malfunction and cause fires.
+  - The circle around your ship in star system view is sensor range.
+  - The circle around your ship in sector view is long-distance sensor range.
+  - You can only see enemy fleets if they have stealth value lower than stealth detection
+    of your ship.
+  - Utility drones are not visually represented in Mothership internal view. They
+    are only used automatically during events.
+  - Your ship always carries a set of cheaply printable utility bots (scouting, mining,
+    research etc) that are used automatically during events.
+  - Losing utility bots during events may result in loss of synthethics and metals.
+  - Sometimes losing utility bots doesn't result in resource loss because their components
+    were recovered.
+  - Your ship uses metals and synthethics to construct utility bots automatically.
+  - Crew will add their skill bonus when operating some modules or ship weapons.
+  - Material converters allow processing one resource into another. This can make
+    the difference between life and death.
+  - Your ship automatically builds & tactically sacrifices utility bots during battles
+    that happen off-screen. This results in loss of metals & synthethics.
+  - Your ship automatically prints cheap missiles, bombs and mines during battles
+    that happen off-screen. This results in loss of explosives.
+  - Xenodata functions as a form of intergalactic digital currency. It is generated
+    while researching alien planets, for example.
+  - Xenodata documented by researching sentient aliens is worth many data credits.
+  - Xenodata documented by researching warplife is worth many data credits.
+  - Xenodata documented by researching anomalies is worth many data credits.
+  - Xenodata documented by researching alien nature is usually worth some data credits.
+  - Life support modules contain biological nanobots that process or recycle all suitable
+    organics into various substances required by crew. Mostly food & drugs.
+  - Desperate captains can scrap reactors, nukes or other modules as an emergency
+    source of fuel.
+  - Check out the help screen (button in lower right screen) for useful details about
+    game mechanics.
+  - Check out the help screen (button in lower right screen) for useful details about
+    game mechanics.
+  - Almost all game elements have hover texts with useful info.
+  - Almost all game elements have hover texts with valuable info.
+  - Almost all game elements have hover texts with practical information.
+  - You can change the game UI color in game options - try it!
+  - Check out the "?" button in lower right corner to see a list of illustrated help
+    topics.
+  - Eco-harvesting operations usually do not collect more organics than your ship
+    can carry.
+  - When you get excess organics or synthethics and have a fuel convertor, convert
+    these resources into fuel instead of dumping them.
+  - Selecting crew is a lot easier if you drag a selection box around the crew instead
+    of clicking.
+  - Selecting crew is a lot easier if you drag a selection box around the crew instead
+    of clicking.
+  - You can reposition module info window at any time by holding & dragging it on
+    the game screen.
+  - If the game is too hard, change your tactics.
+  - If the game is too difficult, change your approach.
+  - Targeting key enemy modules during battle can make the difference between life
+    and death.
+  - If you keep dying, then consider escaping battles with negative outlook earlier.
+  dontLocalizeHint: 0
+  maxLengthHint: 0
+  prefabId: 354963362

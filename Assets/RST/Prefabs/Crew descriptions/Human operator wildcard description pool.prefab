@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1776441704917190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4054588214951850}
+  - component: {fileID: 114279212649171774}
+  m_Layer: 0
+  m_Name: Human operator wildcard description pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4054588214951850
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114279212649171774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1676576818, guid: 92b22081e557a6b4d95662eaa9d01431, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showChances: 0
+  ignoreNulls: 0
+  ignoreTypeMismatches: 0
+  items:
+  - A military dropout who failed the piloting exams.
+  - A weedseed farmer who wanted more excitement.
+  - A young soul trying to prove themselves.
+  - A systems theory scientist. Enjoys tripping.
+  - A Brain monk. Does serious Brain gymnastics with drugs.
+  - A retired university teacher. Degree in energy shields tech.
+  - A fortune seeker who embraces the unknown.
+  - A professional Player. Thinks life is a game.
+  - A gambler without unpaid debts.
+  - 'A drugs conoisseur. Favorite drug: weedseed.'
+  - A neopunk artist who wants to travel and have sex with aliens.
+  - A sex artist looking for new, alien experiences.
+  - A parent of nine kids who all died of old age.
+  - A professional crewman, just doing their job. Super peaceful person.
+  - A cyberpunk writer looking for an adventure.
+  - An Intelligence monk, looking to become an android.
+  - A drifter with a very modest midlife crisis.
+  - A spiritual nomad. Enjoys being on the road.
+  - Used to be a civilian pilot until his company went bankrupt.
+  - A war refugee. Knows how to drive manual-only ships.
+  - A holopainter looking for inspiration.
+  - A dancer looking to become a captain.
+  - A seeker of justice. Once destroyed a Slaver ship by ramming.
+  - A spiritual rebel. Likes unhealthy food.
+  - A humanist tired of widespread injustice.
+  - An ex-cultist banished from his cult.
+  - Survivor from a religious suicide cult.
+  - Innocent clone of a person wanted for murder.
+  - Survivor discovered from a cryopod. No memories.
+  - A Minimalism monk. Eats with hands.
+  - A modern AI designer. Thinks the universe is a simulation.
+  - A philosopher with a theory to prove. Nobody understands it.
+  - A racing enthusiast. Lost his racing ship in an accident.
+  - A hard-working anarchist. Wants to have his own corporation one day.
+  - A corporate dropout who didn't fit in.
+  - An experienced Love monk, liked by everybody on the ship.
+  - A doctor, banished because of a fatal mistake.
+  - A broken-hearted lover who hasn't let go. Writes okayish poetry.
+  - A professional crewman. Low grades from university.
+  - A failed ambassador. The story involves nukes.
+  - A dropout from piloting school. Collects 3D models of snowflakes.
+  - 'A psychedelics scientists. Favorite drug: Onyx-1'
+  - A Minimalism monk. Used to be a ruler of a small planet.
+  - A retired empathy-teacher. Never gets angry, always stays focused.
+  - The "Chosen One" who discovered it was all a big hoax.
+  - A post-post-post-modernist writer. Hasn't written anything yet.
+  - A survivor from a political suicide-organization.
+  - An-ex slave looking for revenge against all slavers.
+  - Body modifications artist. Has furry ears.
+  - Body modifications artist. Has a small furry tail.
+  - A very old person. Has only ~90 years left to live.
+  - A genetical face designer. Wears make-up all the time.
+  - A Dream monk. Spends all free time with eyes closed.
+  - A civilian ship pilot who wanted a bit more excitement.
+  - Claims to be the only survivor of planet Bizau catastrophe.
+  - A Perfectionism monk. Far from perfect.
+  - A Fear monk. Keeps to themselves.
+  - A mentally ill person with brain augments to ensure sane behavior.
+  - A professional poet & holomovie director. Likes adventures.
+  - An existential xenophile. Joined to see something truly alien.
+  - A full-time hedonist. Slightly hypersexual.
+  - A retired hedonist. Now concentrates on hard work.
+  - An existence observer. Says the quality of this reality is 7.9 out of 10.
+  - An adventurer, raised by GuGurkians. Speaks in a strange rhythm.
+  - A musician who gave up music in favor of artistic breathing.
+  - A famous breathing artist. Wanted to get away from all the fame.
+  - A retired animal sanctionary administrator. Has only ~100 years left to live.
+  - A famous sex-artist. Wanted to get away from clients and fans.
+  - 'A celebrated designer of pleasure drugs. His favourite: Rainbow Fog.'
+  - A young tattoo artist on their first adventure. Has endless sexual appetite.
+  - A Sex monk looking for new experiences. Loved by the crew.
+  - A cryosleep enthusiast. Wants to see what the future brings.
+  - A young pilot, want to acquire a small planet and then settle down.
+  - An inexperienced crewman, wants to advance their career.
+  - A retired professional drug connoisseur. Now just a normal appreciator of drugs.
+  - A systems management specialist. Some think they might be a genius.
+  - An old-school programmer. Likes telling stories about times before AI.
+  - An old death artist. Seeks a meaningful death.
+  - A Death monk. Writes poetry about the joy of life.
+  - An old Death monk. Wants to see death up-close.
+  - An old-school programmer. Hacked a nuclear missile once.
+  - A Cyber monk. Has prepared for years to become 100% cyborg.
+  - A young sex-robots designer, looking for inspiration.
+  - A young philosopher. Already famous for being sexy.
+  - A young scientist. Already famous for being hot.
+  - A corporate agent whose corporation was annihilated.
+  - An archeologist not interested in human stuff.
+  - A guildmaster whose guild was destroyed. Hands shaking.
+  - A spiritual nomad. Is seeking other nomads.
+  - A young historian. Sceptical about the existence of time.
+  - A Neo-Daoist. Meditates and has a lot of sex.
+  - A Neo-Buddhist. Deeply calming voice. Speaks in metaphors only.
+  - A prediction scientist. Never shares any predictions.
+  - A Vexian who transplanted her brain into a human body. No regrets.
+  - A Musics monk. Seeks the deepest vibes.
+  - A retired cyberwarrior. Quit because of planetwide peace.
+  - Anarchist law-teacher. Taking this whole thing as a vacation.
+  - A retired cyberwarrior. Never hurt anybody.
+  - A professional storyteller. Most stories are about drug trips.
+  - A professional storyteller. Most stories involve threesomes.
+  - An ex-business analyst. Twitchy eyes.
+  - Body modifications artist. Has modified throat to allow purring.
+  - A systems theory scientist. Great at making predictions.
+  - A retired GuGurkian/human translator. Can sing in GuGurkian.
+  - A retired human/Vexian ambassador. Extremely polite.
+  - A famous psygame artist. Silent type. Likes tentacle aestethics.
+  - A retired professional favor recollector. Never hurt anybody.
+  - A professional storyteller. Most stories are about love & sex.
+  - A professional storyteller. Most stories are about freedom.
+  - A professional storyteller. Most stories are about sincerity.
+  - A professional storyteller. Most stories are about love.
+  - Empathy monk. Completely rehabilitated a Slaver once.
+  - Refugee from a religious suicide cult. Soft voice.
+  dontLocalizeHint: 0
+  maxLengthHint: 250
+  prefabId: 837827031

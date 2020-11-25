@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1776441704917190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4054588214951850}
+  - component: {fileID: 114279212649171774}
+  m_Layer: 0
+  m_Name: General pet description pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4054588214951850
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114279212649171774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1676576818, guid: 92b22081e557a6b4d95662eaa9d01431, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showChances: 0
+  ignoreNulls: 0
+  ignoreTypeMismatches: 0
+  items:
+  - A simple animal, dreaming of pleasures. Understands requests like "go to medbay",
+    but ignores orders.
+  - A well-trained companion pet. Understands requests like "go to medbay" but ignores
+    orders.
+  - An animal with chip-enhanced brain. Understands requests like "go to medbay",
+    but ignores orders.
+  - An animal rescued from a dead space station. Accepts "go to medbay" request, ignores
+    other requests.
+  - Cloned GMO pet. Super-intelligent and always happy. Accepts "to medbay!" requests.
+  - Everybody's favorite. Accepts "to medbay!" requests, ignores anything that sounds
+    like an order.
+  - A trained animal. Regularly dreams of murdering smaller animals. Accepts some
+    basic requests, ignores commands.
+  - A certified spaceship pet. Does only what she wants (accepts "move" and "to medbay!"
+    requests).
+  - A vicious killer turned into a harmless pet by years of GMO/psy engineering. Accepts
+    "move" and "to medbay!" requests.
+  - A wise animal. Enjoys playing hide and seek. Accepts "please move" and "to medbay!"
+    requests.
+  - Avatar of freedom & independence. Accepts "please move" and "to medbay!" requests,
+    ignores orders.
+  - A well-trained companion pet. Contemplates the meaning of life daily. Accepts
+    movement requests.
+  - A well-trained companion pet. Has been trained to meditate. Accepts "please move"
+    and "to medbay!" requests.
+  dontLocalizeHint: 0
+  maxLengthHint: 250
+  prefabId: 1740281161

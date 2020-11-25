@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1776441704917190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4054588214951850}
+  - component: {fileID: 114279212649171774}
+  m_Layer: 0
+  m_Name: Insectoid description pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4054588214951850
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114279212649171774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1676576818, guid: 92b22081e557a6b4d95662eaa9d01431, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showChances: 0
+  ignoreNulls: 0
+  ignoreTypeMismatches: 0
+  items:
+  - A simple bug, looking for love.
+  - An adventurous socialite.
+  - Outcast from a violent bug society.
+  - Existential traveller.
+  - A beetle looking for metaphorical wings.
+  - An ex-military poisons specialist.
+  - An existential explorer. Likes humans.
+  - A star-energy scientist. Dreams of various death rays.
+  - A neurochemistry scientist. Expert on recreational substances.
+  - Result of a standard royal breeding plan.
+  - Result of a royal breeding experiment.
+  - An existential food connoisseur. Seeks the finest tastes.
+  - A Visuals monk. Seeks the most beautiful visuals.
+  - A water monk. Never spits in your face.
+  - A flavor memory collector. Collects flavors into their internal memorybank.
+  - A bug with numerous cybernetic modifications. Anarchist.
+  - An enterpreneur who needs some capital.
+  - Universe Explorer from a world of peaceful beetles.
+  - A tribal primitive, uplifted by The Space Eels, and given brain augments for intelligence.
+  - A tribal primitive with numerous brain enhancements for increased social skills.
+  - A philosopher in search of greater meaning.
+  - A tribal primitive with numerous brain enhancements for increased intelligence.
+  - A primitive with numerous gifted brain enhancements for increased intelligence.
+  - An ex-philospher in search of greater meaning.
+  - An adventurous individualist. Did not fit in with socialites.
+  - A comedian who seeks to understand the existential nature of humor.
+  - A writer. Writes a daily public blog about thoughts on beetle love.
+  - A writer. Keeps a public thoughts blog about artificial intelligence.
+  - A writer. Is currently writing a neopunk story called "Rogue Ambassador"
+  - A young Chezxian pilot. DNA credentials show presence of royal genes.
+  - A Vexian who transplanted their brain into an insectoid body. Misses mammalian
+    days.
+  - Outcast from a very competitive society. DNA credentials show heavy gene damage.
+  - Outcast from a very competitive society. DNA credentials show "second-grade" genes.
+  - Outcast from a very competitive society. DNA credentials show "mediocre" genes.
+  - Outcast from a very competitive society. DNA credentials show "outdated" genes.
+  - Outcast from a very competitive society. DNA credentials show "unfashionable"
+    genes.
+  - Outcast from a very competitive society. DNA credentials show "low-grade" genes.
+  - Outcast from a very competitive society. DNA credentials show "obsolete" genes.
+  - A young Chezxian warrior. DNA credentials show "promising" genes.
+  - An anarchist who erased their DNA credentials. Likes human literature.
+  dontLocalizeHint: 0
+  maxLengthHint: 250
+  prefabId: 613938926

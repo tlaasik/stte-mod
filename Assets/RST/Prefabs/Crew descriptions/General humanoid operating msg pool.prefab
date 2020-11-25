@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1776441704917190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4054588214951850}
+  - component: {fileID: 114279212649171774}
+  m_Layer: 0
+  m_Name: General humanoid operating msg pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4054588214951850
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114279212649171774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1676576818, guid: 92b22081e557a6b4d95662eaa9d01431, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showChances: 0
+  ignoreNulls: 0
+  ignoreTypeMismatches: 0
+  items:
+  - Operating module, focused on the job.
+  - Operating module, contemplating existence.
+  - Operating module, thinking about food.
+  - Operating module, meditative mood.
+  - Operating module, thinking about death.
+  - Operating module, thinking about life.
+  - Operating module, thinking about sex.
+  - Operating module, reading error messages.
+  - Operating module, consulting the manual.
+  - Operating module, feeling lonely.
+  - Operating module, also feeling lonely.
+  - Operating module, thinking about the future...
+  - Operating module, neurochatting with ship AI.
+  - Operating module, daydreaming...
+  - Operating module, admiring the space view...
+  - Operating module, also reviewing personal history.
+  - Operating module, trying to remember a name...
+  - Operating module, updating tech subsettings.
+  - Operating module, thinking about space pets.
+  - Operating module, thinking about alien sex...
+  - Operating module, listening ambient music...
+  - Operating module, also looking at digital art.
+  - Operating module, enjoying being alone.
+  - Operating module, thinking about children.
+  - Operating module, memorizing alien words.
+  - Operating module, dwelling on the past...
+  - Operating module, thinking about past lovers...
+  - Operating module, thinking about childhood...
+  - Operating module, thinking about friendship...
+  - Operating module, thinking about friends.
+  - Operating module, thinking about the Rat Empire.
+  - Operating module, thinking about the Squid Dominion.
+  - Operating module, thinking about the Pirates.
+  - Operating module, also reciting the mantra of truth.
+  - Operating module, thinking about the Tentaculaati.
+  - Operating module, thinking about the Insectoidians.
+  - Operating module, thinking about the Rat Empire.
+  - Operating module, thinking about the Gor-Mor.
+  - Operating module, thinking about architecture.
+  - Operating module, thinking about the Gitchanki.
+  - Operating module, practicing mindfulness.
+  - Operating module, practicing mental silence.
+  - Operating module, practicing mental silence.
+  - Operating module, doing routine checks.
+  - Operating module, practicing mental silence.
+  - Operating module, practicing mindfulness.
+  - Operating module, reciting a mantra of truth.
+  - Operating module, reciting a mantra of love.
+  - Operating module, reciting a mantra of death.
+  - Operating module, reciting a mantra of benevolence.
+  - Operating module, reciting a mantra of mindfulness.
+  - Operating module, doing a mental hygiene routine.
+  - Operating module, doing a mental hygiene routine.
+  - Operating module, paying attention.
+  - Operating module, fine-tuning subsettings.
+  - Operating module, fixing a subscreen glitch.
+  - Operating module, reviewing module data.
+  - Operating module, reviewing module settings.
+  - Operating, thinking about the beauty of another crewmember.
+  - Operating, thinking about something a crewmember said...
+  - Operating, thinking about something a crewmember said...
+  - Operating, thinking about something a crewmember said...
+  - Operating, thinking about something another crewmember said.
+  - Operating, thinking about something another crewmember said.
+  - Operating module, consulting the manual.
+  - Operating module, consulting the manual.
+  - Operating module, consulting the manual.
+  - Operating module, getting advice from ship AI subsystems.
+  - Operating module, getting advice from ship AI.
+  - Operating module, getting advice from ship AI.
+  - Operating module, listening to a motivational audio-recording...
+  - Operating module, listening to motivational music...
+  - Operating module, thinking about an unfulfilled promise...
+  - Operating module, thinking about an unfulfilled promise...
+  - Operating module, thinking about a promise made years ago...
+  - Operating module, focused on module subscreens.
+  - Operating module, focused on the job.
+  - Operating module, focused on the job.
+  - Operating module, focused on the job
+  - Operating module, focused on the job
+  - Operating module, focused on the job
+  - Operating module, focused on the job
+  - Operating module, focused on the job
+  - Operating module, focused on the job
+  - Operating module, focused on the job
+  - Operating module, focused on the job
+  - Operating module, focused on the job
+  - Operating module, focused on the job
+  - Operating module, focused on the job
+  - Operating module, focused on the job
+  - Operating module, focused on the job
+  - Operating module, focused on the job
+  - Operating module, focused on the job
+  - Operating module, focused on the job
+  - Operating module, focused on the job
+  - Operating module, focused on the job
+  - Operating module, focused on the job
+  - Operating module, focused on the job
+  - Operating module, focused on the job
+  - Operating module, focused on the job
+  dontLocalizeHint: 0
+  maxLengthHint: 80
+  prefabId: 203889167

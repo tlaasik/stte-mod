@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1776441704917190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4054588214951850}
+  - component: {fileID: 114279212649171774}
+  m_Layer: 0
+  m_Name: Human good operator description pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4054588214951850
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114279212649171774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1676576818, guid: 92b22081e557a6b4d95662eaa9d01431, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showChances: 0
+  ignoreNulls: 0
+  ignoreTypeMismatches: 0
+  items:
+  - A retired space fleet officer. Has exceptional manners and skills.
+  - A very old person. Has only ~90 years left to live. Lot's of experience.
+  - A Dream monk. Spends all free time with eyes closed. Very skilled.
+  - A systems theory scientist. Enjoys tripping. Excellent attitude.
+  - A Balance monk. Spent years to bring balance into their life.
+  - A retired hedonist. Now concentrates on hard work. Quite skilled.
+  - A professional Player. Thinks life is a game. Good at optimizing things.
+  - A gambler without unpaid debts. Has learned to focus on things.
+  - A legal drugs conoisseur. Interested in sensor technology.
+  - An-ex slave looking for revenge against all slavers. Quite skilled.
+  - A parent of nine kids who all died of old age. Very experienced.
+  - A professional crewman, just doing their job. Quite skilled.
+  - A cyberpunk writer looking for an adventure. Quite skilled.
+  - A tech-monk looking to become an android. Quite skilled.
+  - A war refugee. Brilliant pilot, good with sensors.
+  - A civilian with years of training with spaceship management sims.
+  - A seeker of truth and justice. Has honed his piloting skills for years.
+  - A spiritual rebel. Likes unhealthy food, good with sensors.
+  - A retired transport ship pilot. Has only ~100 years left to live.
+  - A professional crewman. Desires to impress the ship AI.
+  - A minimalism monk. Uses as few tools as possible.
+  - A corporate dropout who didn't fit in. Very eccentric, quite skilled.
+  - A Neo-Daoist. Years of learning the secrets of existence. Deeply calming voice.
+  - A full-time hedonist. Enjoys hard work and helping others, quite skilled.
+  - A Minimalism monk. Used to be a ruler of a backwater planet.
+  - A Perfectionism monk. Is still perfecting how to operate a ship.
+  - A professional ship crewman. Wants to have a non-human body some day.
+  - An ex-military command bridge officer. Augmented brain and eyes.
+  dontLocalizeHint: 0
+  maxLengthHint: 250
+  prefabId: 900487516

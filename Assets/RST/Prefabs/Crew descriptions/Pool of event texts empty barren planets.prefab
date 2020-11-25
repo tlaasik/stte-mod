@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1776441704917190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4054588214951850}
+  - component: {fileID: 114279212649171774}
+  m_Layer: 0
+  m_Name: Pool of event texts empty barren planets
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4054588214951850
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114279212649171774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1676576818, guid: 92b22081e557a6b4d95662eaa9d01431, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showChances: 0
+  ignoreNulls: 0
+  ignoreTypeMismatches: 0
+  items:
+  - This planet is too hot to have any practical value for us.
+  - The atmosphere of this planet is constantly ravaged by superstrong electromagnetic
+    storms. In addition, the environment seems to be highly nanotoxic. We have nothing
+    to do here.
+  - This planet is too hot to have any practical value for us.
+  - A lot of rocks here. Profit outlook negative.
+  - The planet is beautiful, but lacks any value to us.
+  - This massive planet is not suitable for rapid mining operations due to its super
+    strong gravity field.
+  - This planet has trace signs of bacteria in the soil, but nothing of value to us.
+  - The gravitational pull of this massive planet is too strong for efficient operations
+    on the planet.
+  - This planet has no value for our interest.
+  - This lifeless planet doesn't have any resources that might be useful to us.
+  - Gravity here is too strong for surface operations.
+  - This planet lacks any significant atmosphere or interesting minerals.
+  - This lifeless planet doesn't have any resources that might be useful to us.
+  - This planet has good conditions for life, but none has evolved so far. No valuable
+    minerals detected either.
+  - Intense seismic activity makes this planet unattractive for our purposes.
+  - Constant seismic activity makes this planet unattractive for our purposes.
+  - This planet has very poor mineral value. It's just a big rock.
+  - Strong radiation and active mineral dust storms make this planet an unattractive
+    spot for scavenging.
+  - This planet has very poor mineral value.
+  - The mineral profile of this barren planet is too poor to consider mining.
+  - This lifeless ball of dust and rock holds little value.
+  - This massive planet has too strong gravity to consider surface operations.
+  - This planet is just a big ball of sand. Nothing to do here.
+  - Profit outlook negative. Nothing to do here.
+  - This lifeless planet doesn't have any resources that might be useful to us.
+  dontLocalizeHint: 0
+  maxLengthHint: 420
+  prefabId: 110150279

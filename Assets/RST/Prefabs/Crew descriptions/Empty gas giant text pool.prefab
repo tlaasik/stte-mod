@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1776441704917190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4054588214951850}
+  - component: {fileID: 114279212649171774}
+  m_Layer: 0
+  m_Name: Empty gas giant text pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4054588214951850
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114279212649171774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1676576818, guid: 92b22081e557a6b4d95662eaa9d01431, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showChances: 0
+  ignoreNulls: 0
+  ignoreTypeMismatches: 0
+  items:
+  - The gravitational pull of this gas giant is too strong for fuel mining operations.
+  - An extremely chaotic atmosphere makes this planet too dangerous for fuel harvesting.
+  - Risk of lethal atmospheric conditions is way over threshold, nothing to do here.
+  - This gas giant has no quality fuel elements in its atmosphere, nothing to do here.
+  - The atmosphere of this gas giant is almost constantly exploding, due to volatility.
+    Attempting to harvest from here would be lethal.
+  - This gas giant is dotted with numerous mega-cyclones and dangerous atmospheric
+    events. We cannot harvest from it.
+  - The amount of mega-level destructive atmospheric events in the atmosphere is too
+    high to consider fuel harvesting.
+  - Our sensors show constant plasma storms ravaging the atmosphere. This gas giant
+    is extremely dangerous. We cannot harvest from here.
+  - This gas giant is almost covered in plasma reactions - it could become a small
+    star one day. And of course, there is nothing for us to find from here except
+    death.
+  - This gas giant does not have any elements we could process into fuel.
+  - All fuel elements are too deep in the atmosphere of this gas giant, we cannot
+    harvest from here.
+  - Not enough fuel elements in the atmosphere for cost-effective harvesting.
+  - Massive megacyclones ravage the atmosphere, nothing to do here.
+  - The atmospheric fuel elements are too deep inside the atmosphere for safe access.
+  - There's trace amounts of fuel elements in the atmosphere, but not enough to justify
+    harvesting.
+  - This gas giant does not have the fuel elements we need.
+  - The planet's fiery surface regularly creates firestorms which ignite atmospheric
+    gases. The planet is too risky for any operations.
+  - Corrosive compounds in the atmosphere prevent cost-effective harvesting operations.
+  - No suitable fuel compounds found in the atmosphere.
+  dontLocalizeHint: 0
+  maxLengthHint: 420
+  prefabId: 2088051876

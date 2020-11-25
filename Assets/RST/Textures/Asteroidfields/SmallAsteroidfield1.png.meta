@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 121f2f3b747bb354a863771c9bf8988e
+TextureImporter:
+  fileIDToRecycleName: {}
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: 159.96533, y: -44.83145}
+      - {x: 146.23825, y: -31.584702}
+      - {x: 163.79916, y: 20.964355}
+      - {x: 149.32825, y: 63.35565}
+      - {x: 127.180115, y: 94.42212}
+      - {x: 108.29947, y: 88.877014}
+      - {x: 99.47836, y: 133.54578}
+      - {x: 49.07019, y: 155.4527}
+      - {x: 31.345001, y: 136.94406}
+      - {x: 5.348694, y: 154.47217}
+      - {x: -42.47673, y: 141.09125}
+      - {x: -102.77956, y: 132.24533}
+      - {x: -116.50807, y: 84.97009}
+      - {x: -139.3445, y: 63.90222}
+      - {x: -88.805115, y: 15.000305}
+      - {x: -63.187714, y: 15.363281}
+      - {x: -39.584656, y: 35.109406}
+      - {x: -60.896286, y: -0.88809204}
+      - {x: -64, y: -60}
+      - {x: -60.59767, y: -85.28514}
+      - {x: -29, y: -85}
+      - {x: -41, y: -96}
+      - {x: -55, y: -112}
+      - {x: -38.51953, y: -157.63673}
+      - {x: 68, y: -158}
+      - {x: 117.68747, y: -108.082184}
+    - - {x: -85, y: -24}
+      - {x: -73.57027, y: 1.4921265}
+      - {x: -142.52808, y: 9.081512}
+      - {x: -157.30124, y: 43.716125}
+      - {x: -164.10553, y: 6.2618103}
+      - {x: -146.46039, y: -3.6440582}
+      - {x: -116.35806, y: -43.057175}
+      - {x: -88.88281, y: -48.261795}
+    - - {x: -93.51599, y: -135.33838}
+      - {x: -85.20346, y: -122.35004}
+      - {x: -60.26587, y: -129.10397}
+      - {x: -65.98073, y: -143.65091}
+    physicsShape: []
+    bones: []
+    spriteID: bbaa6c939c2535246ace26bed1f89b4e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: asteroids_BW_tri
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerData
+  - EventSystem
+  - UI Camera
+  - Internal view camera
+  - IntViewShip
+  - Module
+  - Starmap view camera
+  - Storage panel
+  - Module slot
+  - POI
+  - Canvas root
+  - World rules
+  - Global visual settings
+  - Menu panel
+  - Player touch
+  - Scene load event name
+  - Main FSM
+  - Comchannel
+  - Main quest FSM
+  - Goto markers
+  - Hover info panel
+  - Mothership crew default pos
+  - Shop foreground
+  - Quest panel
+  - Player panel
+  - Choice panel
+  - Battle results panel
+  - Mission summary panel
+  - Starmap log panel
+  - Loading screen
+  - Player ship
+  - UI skin
+  - Player radar
+  - Quickselect item
+  - Star
+  - Starmap icon
+  - Entry warpgate
+  - Exit warpgate
+  - Starmap objs
+  - Sector stats
+  - Mothership dock
+  - Selection box
+  - Crew actions panel
+  - Menu background
+  - Module actions panel
+  - Crewmember
+  - Door
+  - Mothership shield
+  - UI audio player
+  - World icon
+  - Module slot root
+  - PlayerDatas
+  - Sector view camera
+  - Sector map panel
+  - Canvas root 2
+  - Sector radar
+  - Player stats panel
+  - Shop buy panel
+  - Tutorial arrow
+  - Tutorial arrow tag
+  - Help panel
+  - Music player
+  - Ship organics connector
+  - Ship fuel connector
+  - Ship universal connector
+  - SOS beacon
+  - Autosave panel
+  - Projectile
+  - Beam
+  - Mothership crew default move to
+  - Cutscene
+  - Mothership intruder default pos
+  - Screenshot maker
+  - Ship thruster
+  - Comchannel tip
+  - DamageToken actions panel
+  - Internal view minimap camera
+  - Hand weapon
+  - Space pod
+  - Intruder preparation pos
+  - Unlock item panel
+  - Starmap asteroids
+  - Steam manager
+  - Explosion
+  - Load failed panel
+  - Ship damage
+  - Memorial services
+  - Memorial panel
+  - Quickselect panel
+  - Crew panel
+  - ModuleSlot actions panel
+  - Game victory panel
+  - Game summary panel
+  - GogGalaxy manager
+  - Mini profiler
+  - UI Module
+  - UI Crewmember
+  - Station ground
+  - Crew leave area
+  - Sector intro
+  - Materials converter panel
+  - Player panel excess buttons
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - UI over popup camera
+  - Ship damage
+  - Ship
+  - Shield
+  - Beam
+  - Kinetic
+  - Internal view qs ui
+  - Space
+  - Ground
+  - Internal view world ui
+  - POI
+  - Clouds
+  - Door
+  - Minimap
+  - Sector view
+  - Starmap view
+  - Internal view
+  - Crew
+  - Module
+  - 
+  - Module slot
+  - Navigation
+  - Asteroids
+  - Star
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 570275399
+    locked: 0
+  - name: MS fighters below
+    uniqueID: 772144959
+    locked: 0
+  - name: MS floor
+    uniqueID: 3435355353
+    locked: 0
+  - name: MS modules
+    uniqueID: 4030610503
+    locked: 0
+  - name: MS crew and enemy crew
+    uniqueID: 564045987
+    locked: 0
+  - name: MS other visuals
+    uniqueID: 2640948339
+    locked: 0
+  - name: MS walls and shadows
+    uniqueID: 3893339955
+    locked: 0
+  - name: MS electricity
+    uniqueID: 3088594779
+    locked: 0
+  - name: MS exterior
+    uniqueID: 3015561063
+    locked: 0
+  - name: MS weapons
+    uniqueID: 2215071807
+    locked: 0
+  - name: Enemy fighers below ships
+    uniqueID: 1137230867
+    locked: 0
+  - name: Enemy ships
+    uniqueID: 3162035579
+    locked: 0
+  - name: Enemy weapons
+    uniqueID: 754029233
+    locked: 0
+  - name: My fighters
+    uniqueID: 3728426833
+    locked: 0
+  - name: Space objects
+    uniqueID: 2404072357
+    locked: 0
+  - name: Beams and projectiles
+    uniqueID: 1048244823
+    locked: 0
+  - name: Explosions
+    uniqueID: 2544989811
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

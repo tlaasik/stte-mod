@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1776441704917190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4054588214951850}
+  - component: {fileID: 114279212649171774}
+  m_Layer: 0
+  m_Name: Human repairman description pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4054588214951850
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114279212649171774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1676576818, guid: 92b22081e557a6b4d95662eaa9d01431, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showChances: 0
+  ignoreNulls: 0
+  ignoreTypeMismatches: 0
+  items:
+  - A spiritual nomad. Good at repairing technology & expressing love.
+  - A farm engineer who wanted more excitement. Good at repairs.
+  - A student from engineering university. Good at repairs.
+  - A professional ship architect & repairman.Manually built a shuttle once, although
+    it exploded.
+  - A robotics enthusiast. Has a built-in sets of screwdrivers in his arms, legs and
+    inbetween.
+  - A professional military space ship engineer. Thinks the universe is glitchy but
+    not broken.
+  - An ex-gambler who worked his debts off by repairing sex robots. Excellent at repairs.
+  - A shuttle engineer who loves tinkering antique cars. Excellent at repairs.
+  - A neopunk machine-artist. Loves working on artistic sexbots. Good at repairs.
+  - A professional crewman, just doing their job. Not bat at repairs.
+  - A tech-monk looking to become an android. Great at painting & repairs.
+  - A drifter with a very modest midlife crisis. Good at singing & repairs.
+  - A spiritual nomad. Enjoys manual work & fixing things. Great at repairs.
+  - An ex-mining engineer. Scars from physical violence.
+  - A mecha engineer who wants to become a sex-bot designer one day. Good at repairs.
+  - A ship-builder looking to become a warrior. Good at ship repairs.
+  - A spiritual rebel. Likes unhealthy food & non-human sexbots. Good at repairs.
+  - A Machine monk. Extremely systematical, excellent at repairs.
+  - Professional mechanic who happens to be an innocent clone of a person wanted for
+    murder.
+  - A Ship mechanic who once accidentally destabilized a reactor. Great sense of humor.
+  - A Systems-Theory monk. Great at repairing machines.
+  - An ex-Machine monk. Still great at repairing machines.
+  - An ex-CEO of a small ship maintenance company that went bankrupt. Good at repairs.
+  - A very old engineer. Many body parts are replaced with ancient implants. Can repair
+    anything.
+  - An implant hobbyist. Loves to tinker with hardware, good at repairs.
+  - A minimalism monk. Used to be a sexbot engineer, still good at repairs.
+  - A retired empathy-teacher. Once had to learn how to repair space ships very quickly.
+  - The "Chosen One" of a Machine temple. Cyborg heart. Good at repairs.
+  - An-ex slave engineer looking for revenge against all slavers. Can repair thing
+    quickly.
+  - A Perfectionism monk. Far from perfect, but quite good at ship repairs.
+  - A space station mechanic, raised by robots. Speaks in a strange rhythm. Good at
+    repairs.
+  - A musician who gave up music in favor of repairing mechas.
+  - A sex-robot factory architect. Excellent at cooking, painting, poetry and ship
+    repairs.
+  - An ex-sex-robots engineer. The story involves a horrible software error.
+  - A cryosleep technology engineer, good grades from some kind of engineering university.
+  - A young engineering student, wants some hard experience. Not too hard, preferably.
+  - A non-human sex-robots engineer. Would like to see a Tentaculaati one day.
+  - A young phsyical systems scientist. Already famous for being hot. Also good at
+    repairs.
+  - An archeologist who was once forced to learn how to repair space ships very quickly.
+  - A Robot Guild master whose guild was destroyed. Hands shaking.
+  - A Neo-Daoist monk. Used to work as a holobike-mechanic, still good at repairs.
+  - A professional storyteller. Most stories are about repairing burning spaceships.
+  - A professional storyteller who likes robots. Most stories are about robot threesomes.
+  - Body modifications artist. Has modified hands to improve working with tech.
+  - Ex-repairman of a small robot factory. Meditates weekly, good at repairs.
+  dontLocalizeHint: 0
+  maxLengthHint: 250
+  prefabId: 450630272

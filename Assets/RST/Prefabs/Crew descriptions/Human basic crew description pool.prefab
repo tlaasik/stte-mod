@@ -1,0 +1,185 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1776441704917190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4054588214951850}
+  - component: {fileID: 114279212649171774}
+  m_Layer: 0
+  m_Name: Human basic crew description pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4054588214951850
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114279212649171774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1676576818, guid: 92b22081e557a6b4d95662eaa9d01431, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showChances: 0
+  ignoreNulls: 0
+  ignoreTypeMismatches: 0
+  items:
+  - A Peace monk. Fast runner.
+  - A weedseed farmer who wanted more excitement. Good Physique.
+  - A young soul trying to prove themselves. Loves parkour.
+  - A systems theory scientist. Enjoys trekking & tripping.
+  - A retired security guard. Silent type. Collects plankton images.
+  - A retired soldier. Ashamed of their past. Good runner.
+  - A retired empathy-teacher. Has numerous awards.
+  - A fortune seeker who embraces the unknown. Has a backup heart.
+  - A professional Player. Thinks life is a game. Very athletic.
+  - A gambler without unpaid debts. Fast runner.
+  - A drugs conoisseur. Enjoys jogging. Has three kidneys.
+  - A neopunk artist who loves to travel. Augmented skin provides extra protection.
+  - A sex artist looking for new experiences. Very athletic.
+  - A parent of nine kids who all died of old age. Very athletic.
+  - A novice crewman, just doing their job. Subskin implants add extra protection.
+  - A cyberpunk writer looking for an adventure.
+  - A tech-monk looking to become an android. Augmented muscles.
+  - An existential drifter with a very modest midlife crisis. Augmented muscles.
+  - A spiritual nomad. Enjoys being on the road. Very agile.
+  - An ex-miner. Scars of physical violence. Has four lungs.
+  - An ex-cultist banished from his cult.
+  - A brilliant poet, writer, painter, dancer and lover. Not too good with guns.
+  - A data broker who lost all his fortune. Great at social games.
+  - A holopainter looking for inspiration. Spent years in an Endurance temple.
+  - A dancer looking to become a warrior. Has three lungs and two hearts.
+  - A seeker of truth and justice. Has military-grade muscle augmentations.
+  - A spiritual rebel. Skeptical about the benevolence of this reality.
+  - A humanist tired of widespread injustice. Spent years in a Dexterity temple.
+  - A humanist tired of indirect action. Wants to directly reduce suffering in this
+    world.
+  - A humanist tired of widespread injustice.
+  - Survivor from a religious suicide cult. Fast runner.
+  - Innocent clone of a person wanted for murder. Fast runner.
+  - Survivor from a found cryopod. Has no memories, but knows alien martial arts.
+  - A Minimalism monk. Eats with hands. Very athletic.
+  - A modern AI designer. Thinks the universe is a simulation. Good physique.
+  - A philosopher with a theory to prove. Nobody understands it.
+  - A Minimalism monk. Eats with hands. Avoids all drugs. Very athletic.
+  - A hard-working anarchist. Wants to have his own corporation one day.
+  - A corporate dropout who didn't fit in. Physically in very good shape.
+  - An experienced Love monk. Loved by most of the crew. Very athletic.
+  - An experienced love monk, liked by everybody on the ship.
+  - An existential xenophile. Joined to see something truly alien.
+  - Animal doctor, self-banished because of a fatal mistake. Skin augments.
+  - A broken-hearted lover who hasn't let go. Writes okayish poetry.
+  - A successful martial artist. Has never hurt anybody.
+  - A failed ambassador. The story involves nukes. Fast runner.
+  - A completely rehabilitated criminal. Loves to dance and sing.
+  - 'A psychedelics scientists. Favorite drug: Onyx-1.'
+  - A Minimalism monk. Used to be a ruler of a backwater planet.
+  - A retired empathy-teacher. Scars of physical violence. Augmented muscles.
+  - The "Chosen One" who discovered it was all a big hoax.
+  - A corporate CEO who donated all his wealth to effective altruism.
+  - A hard-working anarchist. Wants to have his own corporation one day.
+  - Anarchist law-teacher. Taking this whole thing as a vacation.
+  - A post-post-post-modernist writer. Hasn't written anything yet.
+  - A survivor from a political suicide-organization. Has a backup heart.
+  - An-ex slave looking for revenge against all slavers. Trains martial arts daily.
+  - Body modifications artist. Has furry ears. Innumerable minor augments.
+  - Body modifications artist. Has a small furry tail. Loves to dance.
+  - A very old person. Has only ~90 years left to live.
+  - A genetical face designer. Wears make-up all the time.
+  - A Dream monk. Spends all free time with eyes closed.
+  - An ex law guardian. Quit because of corruption. Subskin implants for extra protection.
+  - Claims to be the only survivor of planet Bizau catastrophe. They all do.
+  - A Perfectionism monk. Far from perfect. Very athletic.
+  - A Fear monk. Keeps to themselves. Very artistic dancer. Very dextrous.
+  - A law guardian who escaped from assassins. Subskin implants for extra protection.
+  - A professional poet. Also knows how to use a sword. Enjoys weightlifting.
+  - An existential xenophile. Joined to become one with something truly alien.
+  - A full-time hedonist. Slightly hypersexual. Loved by most of the crew.
+  - A retired hedonist. Now concentrates on hard work. Occasionally trains martial
+    arts.
+  - An existence observer. Says this reality is 8 out of 10. Thinks he's immortal.
+  - An adventurer, raised by GuGurkians. Speaks in a strange rhythm. Good Physique.
+  - A musician who gave up music in favor of artistic breathing. Has four lungs.
+  - A famous breathing artist. Wanted to get away from all the fame.
+  - A retired animal sanctionary administrator. Has only ~100 years left to live.
+  - A famous sex-robot designer. Wanted to get away from clients and fans.
+  - A failed sex-robot engineer. The story involves a horrible software error.
+  - A young tattoo artist on their first adventure. Slightly hypersexual.
+  - A Sex monk looking for new experiences. Loved by the crew. Very athletic.
+  - A cryosleep enthusiast. Wants to see what the future brings. Organ augments.
+  - A professional crewman, wants to get it over with. Muscle augmentations.
+  - A retired drug conoisseur. Now focuses on scientific work. Muscle augmentations.
+  - A young death artist. Seeks a beautiful death. Loved by most of the crew.
+  - An old death artist. Seeks a beautiful death. Very athletic.
+  - An old death artist. Seeks a meaningful death. Good at ancient Earth martial arts.
+  - A Death monk. Writes poetry about the joy of life. Excercises & sings daily.
+  - An old Death monk. Wants to see death up-close. Muscle augmentations.
+  - A young death artist. Scars of physical violence. Muscle augmentations.
+  - An ex-assassin. Specialized in providing illegal voluntary euthanasia.
+  - A young robots designer, looking for inspiration. Has ancient leg augmentations.
+  - A young philosopher. Already famous for being sexy. Dances daily.
+  - A young scientist. Already famous for being hot. Very athletic.
+  - A corporate agent whose corporation was annihilated. Muscle augmentations.
+  - An archeologist not interested in human stuff. Expert of alien pottery.
+  - A guildmaster whose guild was destroyed. Subskin implants for extra protection.
+  - Ex-smuggler. Has regular nightmares. Has subskin implants for extra protection.
+  - A young historian. Sceptical about the existence of time. Loves jogging.
+  - A neo-daoist. Meditates and has a lot of sex. Good at ancient Earth martial arts.
+  - A neo-daoist. Years of martial arts training. Deeply calming voice.
+  - One of the survivors of planet Bizau catastrophe. Has a backup heart.
+  - A Vexian who transplanted her brain into a human body. No regrets.
+  - A retired cyberwarrior. Borderline paranoid. Has an illegal backup-brain.
+  - A retired cyberwarrior. Quit because of planetwide peace.
+  - A retired cyberwarrior. Does not own any digital equipment.
+  - A retired cyberwarrior. Never hurt anybody. Fast runner.
+  - A professional storyteller. Most stories are about drug trips.
+  - A professional storyteller. Most stories are about threesomes.
+  - An ex-business analyst. Twitchy eyes. Has subskin implants for extra protection.
+  - Body modifications artist. Has modified throat to allow purring.
+  - A systems theory scientist. Great at making predictions.
+  - A retired GuGurkian/human translator. Can dance and sing in GuGurkian.
+  - A retired human/Vexian translator. Scars of physical violence.
+  - A retired professional favor recollector. Scars of physical violence.
+  - A retired professional favor recollector. Never hurt anybody.
+  - A professional storyteller. Most stories are about sex & love.
+  - A professional storyteller. Most stories are about freedom or respect.
+  - A professional storyteller. Most stories are about sincerity or honesty.
+  - A professional storyteller. Most stories are about love & sex.
+  - Empathy teacher. Scars of physical violence. Subskin implants for extra protection.
+  - Refugee from a religious suicide cult. Soft voice. Fast runner.
+  - A retired mercenary. Once survived a direct hit with a nuke.
+  - A retired mercenary. Never killed a single person. Very athletic.
+  - A retired mercenary. Retired after first kill in combat.
+  - A famous psygame artist. Silent type.
+  - Anarchist law-teacher. Taking this whole thing as a vacation.
+  - A Music monk. Seeks the deepest vibes. Good dancer.
+  - A data broker who lost all his fortune. Great at social games.
+  - A spiritual nomad. Is seeking other nomads.
+  - A musician who gave up music in favor of artistic thinking.
+  - A famous thoughts artist. Wanted to get away from all the fame.
+  dontLocalizeHint: 0
+  maxLengthHint: 250
+  prefabId: 1621701858

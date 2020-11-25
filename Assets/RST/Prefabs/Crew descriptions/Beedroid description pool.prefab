@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1776441704917190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4054588214951850}
+  - component: {fileID: 114279212649171774}
+  m_Layer: 0
+  m_Name: Beedroid description pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4054588214951850
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114279212649171774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1676576818, guid: 92b22081e557a6b4d95662eaa9d01431, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showChances: 0
+  ignoreNulls: 0
+  ignoreTypeMismatches: 0
+  items:
+  - Beedroid cyborg with total self-control. Armored & fire resistant body.
+  - Beedroid cyborg. Good at repairs and has a great sense of humor. Armored & fire
+    resistant body.
+  - Beedroid cyborg with perfect memory and enhanced sexual functions. Fire resistant
+    body.
+  - Beedroid cyborg with built-in drug synthesizers inside their brain. Armored &
+    fire resistant body.
+  - Beedroid cyborg artist. Loves math & engineering. Armored & fire resistant body.
+  - Beedroid cyborg ex-programmer. Also a fan of digital drugs. Fire resistant body.
+  - Beedroid cyborg who loves jokes about religions & traditions. Armored & fire resistant
+    body.
+  - Beedroid cyborg with enhanced sexual functions. Loves to talk about her AI lovers
+    back home. Fire resistant body.
+  - Beedroid cyborg with modified processors for increased mental power. Armored &
+    fire resistant body.
+  - Beedroid cyborg musician. Has built-in loudspeakers and subwoofers everywhere
+    in the body.
+  - Beedroid cyborg musician. Has built-in loudspeakers & electronic drums everywhere
+    in the body.
+  - Beedroid cyborg musician. Has built-in electronid drums inside their body.
+  - Beedroid cyborg Depression monk. Enjoys exploring the pits of despair while high
+    on digital drugs. Fire resistant body.
+  - Beedroid cyborg Sadness monk. Enjoys exploring the depths of sadness while high
+    on digital drugs. Fire resistant body.
+  - Beedroid cyborg Remorse monk. Enjoys exploring the depths of regret while high
+    on digital drugs. Fire resistant body.
+  - Beedroid cyborg Misfortune monk. Enjoys learning chaos through playing simulators
+    of artificial misfortune.
+  - Beedroid cyborg Order monk. Enjoys (humanely) increasing the general abstract
+    orderfulness in self, and perhaps later on, also in the world.
+  - Beedroid cyborg Intelligence monk. Super-intelligent and always happy. Armored
+    & fire resistant body.
+  - Beedroid cyborg Serenity monk, learning serenity by owerflowing itself with pleasure
+    from constant digital drugs. Very peaceful.
+  dontLocalizeHint: 0
+  maxLengthHint: 250
+  prefabId: 1525832280

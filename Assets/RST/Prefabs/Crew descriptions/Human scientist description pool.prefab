@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1776441704917190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4054588214951850}
+  - component: {fileID: 114279212649171774}
+  m_Layer: 0
+  m_Name: Human scientist description pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4054588214951850
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114279212649171774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1676576818, guid: 92b22081e557a6b4d95662eaa9d01431, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showChances: 0
+  ignoreNulls: 0
+  ignoreTypeMismatches: 0
+  items:
+  - Research & modelling specialist. Thinks consciousness is interaction of information
+    and matter.
+  - A monk from Intelligence temple. Currently self-teaching fractal system analysis.
+  - A young scientist already famous for being hot. Also has four academic degrees
+    in the art of thinking.
+  - Research & optimization specialist. Loves white lab coats.
+  - Research & digital tech specialist. Currently self-teaching metacognitive communication.
+  - An Intelligence monk. Can model super-complex patterns with ease.
+  - An ex-intelligence monk. Still excellent at learning, modelling and testing.
+  - A young scientist. Currently researching practical military ethics.
+  - A young scientist. Currently researching ancient Vexian erotic poetry. Purely
+    for academic reasons.
+  - A young scientist. Currently researching GuGurkian sexual aestethics. Purely for
+    academic reasons.
+  - A young scientist. Currently taking a break from academic life. To contemplate
+    if life is the sixth state of matter or not.
+  - A young scientist. Currently self-teaching distributed pleasure optimization.
+  - A young scientist. Interested in causality patterns. Thinks there might be a fractal
+    pattern hidden in there.
+  - A young scientist. Interested in metaphoric-holographic principle of subjectivity.
+  - A young scientist. Currently researching open individuality.
+  - An old scientist. Has dedicated their life to modelling Vexian humor.
+  - A Science monk. Has a great sense of humor. Defines self as a distributed system.
+  - An ex-Science monk who became an Intelligence monk. Loves jokes about religions.
+  - A very old scientist. Trying to make up his mind if he wants to become a cyborg
+    or to die.
+  - An existentialism scientist. Interested in the Fractal Causality Waves theory.
+  - A retired drug conoisseur. Now interested in xenobiology, especially distributed
+    life systems.
+  - A prediction scientist. Has written a comedy book about Earth scientists who though
+    that life needs to have cellular structure in order to be defined as life.
+  - A systems theory scientist. Great at making predictions - especially about herself.
+  - A systems theory scientist. Great at making predictions - especially about things
+    she is going to change personally.
+  - 'A psychedelics scientists. Favorite drug: Onyx-1. Thinks life is an enlightment
+    simulator.'
+  - 'A mind scientists. Favorite drug: weedseed. Thinks life is a semi-illusionary
+    fractal pattern purification system.'
+  - An existense scientist. Thinks life is an illusionary system for educating proto-beings.
+  - A systems-theory scientist whose favorite activity is helping others. Uses brain
+    implants that constantly administer a coctail of pleasant drugs.
+  - A retired university teacher. Once opened a gate into another dimension by consuming
+    exotics. At least it's a story people tell about her.
+  - A retired university teacher. Retired to become a better lover.
+  - A retired academic scientist. Retired to learn more about love and free will.
+  dontLocalizeHint: 0
+  maxLengthHint: 250
+  prefabId: 253197677

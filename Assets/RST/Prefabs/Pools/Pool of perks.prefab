@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &136216
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 461022}
+  - component: {fileID: 11496650}
+  m_Layer: 0
+  m_Name: Pool of perks
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &461022
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 136216}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11496650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 136216}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1346558015, guid: 92b22081e557a6b4d95662eaa9d01431, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showChances: 0
+  ignoreNulls: 0
+  ignoreTypeMismatches: 0
+  items:
+  - prefab: {fileID: 1304496814214778, guid: ea18e2f808a5f44458e441d8350cd500, type: 3}
+    prefabId: 1828524155
+  - prefab: {fileID: 1304496814214778, guid: d903a332940e3c440af04135954678dd, type: 3}
+    prefabId: 1636676426
+  - prefab: {fileID: 1304496814214778, guid: dc61ce7f2c24b644e86306126e7a0068, type: 3}
+    prefabId: 1636676425
+  - prefab: {fileID: 1304496814214778, guid: e28d4ea104f281c4f9aef6928bf46ff1, type: 3}
+    prefabId: 1590596161
+  - prefab: {fileID: 1304496814214778, guid: b02f9e123499076468bf2f24ff07b7d3, type: 3}
+    prefabId: 1672628015
+  - prefab: {fileID: 1304496814214778, guid: 1a081be3730ee1a41a300d4c4f91c1e1, type: 3}
+    prefabId: 1672628016
+  - prefab: {fileID: 1304496814214778, guid: 623f10a3bc7049648974f01eb1bad0a1, type: 3}
+    prefabId: 945087461
+  - prefab: {fileID: 1304496814214778, guid: 2ab537db73ef47648a4cfc00afe6e268, type: 3}
+    prefabId: 430920595
+  - prefab: {fileID: 1304496814214778, guid: eef491647f9178f488cb0610d9b12638, type: 3}
+    prefabId: 75978646
+  - prefab: {fileID: 1304496814214778, guid: 11c57dc62138c544b81256d8d51d09e8, type: 3}
+    prefabId: 798752091
+  - prefab: {fileID: 1304496814214778, guid: 0990ed4e82b2b2f4aac33a887680159e, type: 3}
+    prefabId: 1311577453
+  - prefab: {fileID: 1304496814214778, guid: e0f7ad14cf59e924988eb85f83671d4f, type: 3}
+    prefabId: 1289207917
+  - prefab: {fileID: 1304496814214778, guid: 0a7d5945400b7354ba33847fb93c7bdb, type: 3}
+    prefabId: 1019109695
+  - prefab: {fileID: 1304496814214778, guid: fa93737031020034e92c3e0e6978d7fa, type: 3}
+    prefabId: 1312794238
+  - prefab: {fileID: 1304496814214778, guid: 44d9535869157034489fccea0e752c55, type: 3}
+    prefabId: 986856836
+  - prefab: {fileID: 1304496814214778, guid: 166c68484c3c8034fa0b3a964b76411d, type: 3}
+    prefabId: 153460441
+  - prefab: {fileID: 1304496814214778, guid: abe15fa371866a54f8a96e32d15198f3, type: 3}
+    prefabId: 1491789515
+  - prefab: {fileID: 1304496814214778, guid: b327eb48c7ee0c44b81da562582e2e85, type: 3}
+    prefabId: 1585922370
+  - prefab: {fileID: 1304496814214778, guid: 48bcfe1dddc0ff540b99b323eed6b4b4, type: 3}
+    prefabId: 136575048
+  - prefab: {fileID: 1304496814214778, guid: 04fa13ceb9ebf49449c3dfe8bd29caed, type: 3}
+    prefabId: 1246169320
+  - prefab: {fileID: 1304496814214778, guid: cc6cd70c13db0a645af12830b1c69a63, type: 3}
+    prefabId: 28396574
+  - prefab: {fileID: 1304496814214778, guid: 6d08aba5df4cca747910eceb054b7e6e, type: 3}
+    prefabId: 1687140155
+  - prefab: {fileID: 1304496814214778, guid: e893db3f0acc954469b28776b2357944, type: 3}
+    prefabId: 83526129
+  - prefab: {fileID: 1304496814214778, guid: d76e758f3591ef64e88306d4c54436a6, type: 3}
+    prefabId: 1722324010
+  - prefab: {fileID: 1304496814214778, guid: eebd05286f973ee42a327f84464276fb, type: 3}
+    prefabId: 1569517835
+  - prefab: {fileID: 1304496814214778, guid: 3d93985c34471024d8ab0cbbffe9b7bf, type: 3}
+    prefabId: 1105713209
+  - prefab: {fileID: 1304496814214778, guid: c55abc89dcff8e748b86a16be1390e56, type: 3}
+    prefabId: 917843686
+  - prefab: {fileID: 1304496814214778, guid: 12d9eeb7f10f60e48acf6d825607476d, type: 3}
+    prefabId: 1105381290
+  - prefab: {fileID: 1304496814214778, guid: 072ccfb7cc95a174eb16711d314e072d, type: 3}
+    prefabId: 411849296
+  - prefab: {fileID: 1304496814214778, guid: 15e1a3de8aa06d641b2ac9190fab8f79, type: 3}
+    prefabId: 484808345
+  - prefab: {fileID: 1304496814214778, guid: 654860bdb9c9708498fa092d668fca62, type: 3}
+    prefabId: 2060998335
+  - prefab: {fileID: 1304496814214778, guid: 65a04c36436e78345bfcb9cb886ba56c, type: 3}
+    prefabId: 936025880
+  - prefab: {fileID: 1304496814214778, guid: 144073fb476539542ac50baf50ab4fe4, type: 3}
+    prefabId: 141752450
+  - prefab: {fileID: 1304496814214778, guid: 2b5141f3515d66e40b427ce79fea90b8, type: 3}
+    prefabId: 584291632
+  - prefab: {fileID: 1304496814214778, guid: 1f1cee2dd80eb364ebdee9b9b9e1a549, type: 3}
+    prefabId: 2140969742
+  - prefab: {fileID: 1304496814214778, guid: cd8cc43258f700b40b6bdfaeab37c355, type: 3}
+    prefabId: 2036238841
+  - prefab: {fileID: 1304496814214778, guid: d08c666ef14a5b940a72080a68aee87a, type: 3}
+    prefabId: 187729117
+  - prefab: {fileID: 1304496814214778, guid: 9f9a814b14d0d8d4f9defac259334ba3, type: 3}
+    prefabId: 1581853207
+  - prefab: {fileID: 1304496814214778, guid: 2a8191c5eae3fe449ac9a9dfa261b13d, type: 3}
+    prefabId: 142590729
+  - prefab: {fileID: 1304496814214778, guid: 9c53ac5cd4d956d4e9c4e06ec0b0c709, type: 3}
+    prefabId: 2075504578
+  - prefab: {fileID: 1304496814214778, guid: dd7307c7dcefec749920ab0bcb0f8ef3, type: 3}
+    prefabId: 344652167
+  - prefab: {fileID: 1304496814214778, guid: 536a8d582081a034798ad153418d6061, type: 3}
+    prefabId: 237545307
+  - prefab: {fileID: 1304496814214778, guid: 7dc2e5a3452163f4db72b921efdea8f0, type: 3}
+    prefabId: 918962338
+  - prefab: {fileID: 1304496814214778, guid: f4b591243f65d504eb29fa7c5de744e6, type: 3}
+    prefabId: 780498261
+  - prefab: {fileID: 1304496814214778, guid: f3709195a4ff8d049a263faf8994f422, type: 3}
+    prefabId: 69059130
+  - prefab: {fileID: 1304496814214778, guid: e8db0370046808245ada9e96129c347f, type: 3}
+    prefabId: 2037439773
+  - prefab: {fileID: 1304496814214778, guid: 6b071fea8668cf34ebeb858ada3136c0, type: 3}
+    prefabId: 1577853994
+  - prefab: {fileID: 1304496814214778, guid: beb82f5b537766b49a4ad8f4f21d8630, type: 3}
+    prefabId: 1913754090
+  - prefab: {fileID: 1304496814214778, guid: f5aa6a6a8c56aee40a4f23237e95ff87, type: 3}
+    prefabId: 82318717
+  - prefab: {fileID: 1304496814214778, guid: 540130c1f1961c34d907b68d1592030a, type: 3}
+    prefabId: 406945286
+  - prefab: {fileID: 1304496814214778, guid: 1ee4857303963b24f9d66f3ed32b45dd, type: 3}
+    prefabId: 1975921437
+  - prefab: {fileID: 1304496814214778, guid: de008ed6dcd3d264087a69b9fdd97e5a, type: 3}
+    prefabId: 388240334
+  - prefab: {fileID: 1304496814214778, guid: 73ca6c7430aef6a44b592a60d5ac2ca6, type: 3}
+    prefabId: 1048034788
+  - prefab: {fileID: 1304496814214778, guid: 9af0a927ad83c2444a4698030e868fb1, type: 3}
+    prefabId: 873320189
+  - prefab: {fileID: 1304496814214778, guid: e7a667768d2ea484a8dafeece39574df, type: 3}
+    prefabId: 117807373
+  - prefab: {fileID: 1304496814214778, guid: e22419f32fec4714d8e013b72a804172, type: 3}
+    prefabId: 1109573451
+  - prefab: {fileID: 1304496814214778, guid: 0d7e8635592bdef4dbdc5b5c3a1e806b, type: 3}
+    prefabId: 1840253454
+  - prefab: {fileID: 1304496814214778, guid: f59ab907a24b1d24c91464967a4a36ca, type: 3}
+    prefabId: 2098263678
+  - prefab: {fileID: 1304496814214778, guid: e4912a64d6bc0554b975db6bd6518f28, type: 3}
+    prefabId: 786995751
+  - prefab: {fileID: 1304496814214778, guid: ee1dd63b5944dba429a947fbd9349232, type: 3}
+    prefabId: 361125977
+  - prefab: {fileID: 1304496814214778, guid: 9e9c5e200ac2e8541a317a36633c8a73, type: 3}
+    prefabId: 326598807
+  - prefab: {fileID: 1304496814214778, guid: 8ed1d5369467fb3488755cc88779ee27, type: 3}
+    prefabId: 1108785668
+  - prefab: {fileID: 1304496814214778, guid: e82e2d6edeb4fa64e8c00a749b4c9809, type: 3}
+    prefabId: 1425666963
+  - prefab: {fileID: 1304496814214778, guid: 3f6ae9a1b5aae474c8fdda9bfa0fa2fa, type: 3}
+    prefabId: 124153277
+  - prefab: {fileID: 1304496814214778, guid: aa7fa83daf2323548a47493d55a42bff, type: 3}
+    prefabId: 1599767297
+  - prefab: {fileID: 1304496814214778, guid: 06290cf7fee50b94187f4caf33cbb2e7, type: 3}
+    prefabId: 1406333136
+  - prefab: {fileID: 1304496814214778, guid: 77d19cd0ba0f61b44bddc9f869feec87, type: 3}
+    prefabId: 755906886
+  - prefab: {fileID: 1304496814214778, guid: 7fb52b30facaf6e488516dc80b7241f1, type: 3}
+    prefabId: 1559698830
+  - prefab: {fileID: 1304496814214778, guid: 91c5f349246a2f445bd4b9508abe3131, type: 3}
+    prefabId: 1559119211
+  - prefab: {fileID: 1304496814214778, guid: 47af60f853038324187a3bc1db070ffa, type: 3}
+    prefabId: 136621601
+  - prefab: {fileID: 1304496814214778, guid: 4c5e61c52ee8f494e9a74e06912f601e, type: 3}
+    prefabId: 1821549491
+  - prefab: {fileID: 1304496814214778, guid: 699c48c73d741b2468ab058b355e1fa2, type: 3}
+    prefabId: 907839204
+  - prefab: {fileID: 1304496814214778, guid: db646cee36c96e540bafb5017f132677, type: 3}
+    prefabId: 522883132
+  - prefab: {fileID: 1304496814214778, guid: 5482ac1d8424f9d428c0132838108e4c, type: 3}
+    prefabId: 989922131
+  - prefab: {fileID: 1304496814214778, guid: c8b3e519c9d5562489549c83121cc847, type: 3}
+    prefabId: 872216984
+  - prefab: {fileID: 1304496814214778, guid: 333d93655b680ba4abb6e2745023ea47, type: 3}
+    prefabId: 209451390
+  - prefab: {fileID: 1304496814214778, guid: 33ac54ea34c7e3f4eb72f601bff96fdf, type: 3}
+    prefabId: 16054811
+  - prefab: {fileID: 1304496814214778, guid: d28879e0b4a59c34a8daccdf410d0546, type: 3}
+    prefabId: 1002977681
+  - prefab: {fileID: 1304496814214778, guid: 607dbbb16f8286747b253d7abc77a26a, type: 3}
+    prefabId: 1610304684
+  - prefab: {fileID: 1304496814214778, guid: e402518fb5e64934f8bba70b7d5af198, type: 3}
+    prefabId: 1983487017
+  - prefab: {fileID: 1304496814214778, guid: 53089f532d9096847846899082633243, type: 3}
+    prefabId: 450353830
+  - prefab: {fileID: 1304496814214778, guid: dadbeae218822ef4693218a3851a94c3, type: 3}
+    prefabId: 1860396564
+  - prefab: {fileID: 1304496814214778, guid: f05d2dc9d2ad6374394f74930e6fa2d1, type: 3}
+    prefabId: 600376461
+  - prefab: {fileID: 1304496814214778, guid: ca6fcbe8b54456f468be577e6959612d, type: 3}
+    prefabId: 996292804
+  - prefab: {fileID: 1304496814214778, guid: 2ca1c7a7c6fb10a4d97da55ab5f9716e, type: 3}
+    prefabId: 1920833206
+  - prefab: {fileID: 1304496814214778, guid: d22e2b3367e52e749b8df72ff9e967fd, type: 3}
+    prefabId: 1809779126
+  - prefab: {fileID: 1304496814214778, guid: be3883ddba063e34ba79433638a3d026, type: 3}
+    prefabId: 1607974324
+  - prefab: {fileID: 1304496814214778, guid: ac87b7ab368e3874fb9705f6318c9825, type: 3}
+    prefabId: 1860627745
+  - prefab: {fileID: 1304496814214778, guid: 05261d4b5fde0004faadaf275e3b6ad8, type: 3}
+    prefabId: 1993735695
+  - prefab: {fileID: 1304496814214778, guid: a7f0385e225c5f84d9808fbf2671411c, type: 3}
+    prefabId: 450636944
+  - prefab: {fileID: 1304496814214778, guid: 514528e48a5338646bc734fa8bb901bb, type: 3}
+    prefabId: 131783302
+  - prefab: {fileID: 1304496814214778, guid: 97f5be50c504a7245bf6ece9805151df, type: 3}
+    prefabId: 1506790699
+  - prefab: {fileID: 1304496814214778, guid: 61902b668684347489ccc9781e74a169, type: 3}
+    prefabId: 174917737
+  - prefab: {fileID: 1304496814214778, guid: 5d22b4608cdf3b847bfd947d9c96b2b1, type: 3}
+    prefabId: 225180168
+  - prefab: {fileID: 1304496814214778, guid: 600e0b6cbd3986844b62488fd9e5a583, type: 3}
+    prefabId: 22277590
+  - prefab: {fileID: 1304496814214778, guid: 5d491724d9c6ec54ba336b6ee5c1016b, type: 3}
+    prefabId: 633108626
+  - prefab: {fileID: 1304496814214778, guid: 4a7958afdec40cc4ebaecb5c47598b39, type: 3}
+    prefabId: 1252646026
+  - prefab: {fileID: 1304496814214778, guid: 8f9351fed062bef48a6867f1f8728407, type: 3}
+    prefabId: 1260454991
+  prefabId: 340218544
+  sourceFolder: 

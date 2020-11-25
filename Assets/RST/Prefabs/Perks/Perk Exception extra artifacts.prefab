@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1304496814214778
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4831289894506972}
+  - component: {fileID: 114865683271745958}
+  m_Layer: 0
+  m_Name: Perk Exception extra artifacts
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4831289894506972
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1304496814214778}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114865683271745958
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1304496814214778}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1167843144, guid: 92b22081e557a6b4d95662eaa9d01431, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  displayName: Artifacts from Mars
+  menuSprite: {fileID: 21300000, guid: dd5c0f45c60557949a0c2929d388f21b, type: 3}
+  description: Numerous technological artifacts were excavated together with the Exception.
+    Pulling some strings will ensure they are given to us for further research.
+  repCost: 4
+  isPermanent: 0
+  isUnlockedByDefault: 1
+  unlockAnnouncementText: 
+  unlockAchievement: 0
+  fateBonusInPerkSelection: 0
+  addShipMaxHealth: 2
+  addShipDeflectPercent: 0
+  addShipEvasionPercent: 0
+  addShipAccuracyPercent: 0
+  extraCrew: []
+  extraCrewChooseWithMatchingComment: 
+  extraCrewDisplayNameOverride: 
+  extraCrewDescripionOverride: 
+  extraModules:
+  - prefabRefs:
+    - prefabId: 1154854718
+  - prefabRefs:
+    - prefabId: 1154854718
+  moduleReplacements: []
+  randomizerMenuStrings:
+  - +2 artifacts
+  - -100 credits
+  randomizerResources:
+    credits:
+      type: 6
+      normalConfidence: 0
+      linearSlope: 1
+      sec2Skew: 1
+      expExponent: 1
+      slopeDir: 0
+      minValue: -100
+      maxValue: -100
+      buckets: []
+    fuel:
+      type: 6
+      normalConfidence: 0
+      linearSlope: 1
+      sec2Skew: 1
+      expExponent: 1
+      slopeDir: 0
+      minValue: 0
+      maxValue: 0
+      buckets: []
+    explosives:
+      type: 6
+      normalConfidence: 0
+      linearSlope: 1
+      sec2Skew: 1
+      expExponent: 1
+      slopeDir: 0
+      minValue: 0
+      maxValue: 0
+      buckets: []
+    organics:
+      type: 6
+      normalConfidence: 0
+      linearSlope: 1
+      sec2Skew: 1
+      expExponent: 1
+      slopeDir: 0
+      minValue: 0
+      maxValue: 0
+      buckets: []
+    exotics:
+      type: 6
+      normalConfidence: 0
+      linearSlope: 1
+      sec2Skew: 1
+      expExponent: 1
+      slopeDir: 0
+      minValue: 0
+      maxValue: 0
+      buckets: []
+    synthetics:
+      type: 6
+      normalConfidence: 0
+      linearSlope: 1
+      sec2Skew: 1
+      expExponent: 1
+      slopeDir: 0
+      minValue: 0
+      maxValue: 0
+      buckets: []
+    metals:
+      type: 6
+      normalConfidence: 0
+      linearSlope: 1
+      sec2Skew: 1
+      expExponent: 1
+      slopeDir: 0
+      minValue: 0
+      maxValue: 0
+      buckets: []
+  prefabId: 463511730
+  dontLocalizeHint: 0

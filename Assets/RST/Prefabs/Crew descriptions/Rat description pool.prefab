@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1776441704917190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4054588214951850}
+  - component: {fileID: 114279212649171774}
+  m_Layer: 0
+  m_Name: Rat description pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4054588214951850
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114279212649171774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776441704917190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1676576818, guid: 92b22081e557a6b4d95662eaa9d01431, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showChances: 0
+  ignoreNulls: 0
+  ignoreTypeMismatches: 0
+  items:
+  - A simple rat, looking for a good life.
+  - Adventurous mercenary.
+  - A poor mercenary.
+  - An uneducated mercenary.
+  - An old mercenary. Knows ancient Rat martial arts.
+  - An old mercenary. Consumes drugs regularly to keep the nightmares away.
+  - An old mercenary. Regularly consumes drinkable drugs to keep the nightmares away.
+  - An old mercenary. Consumes alcoholic drugs regularly to keep the nightmares away.
+  - Outcast from a Rat planet.
+  - Refugee from a regional Rat war.
+  - An ex-patrol officer, fired from his job for not taking a bribe.
+  - A tail painter looking for inspiration.
+  - An introverted individualist who didn't fit in with a planet of socialites.
+  - An introvert who didn't fit in with a planet of socialites.
+  - An individualist who didn't fit in with a planet of socialites.
+  - A mediocre result in the Rat Empire cloning factory. Shorter tail than what is
+    considered "beautiful tail length"
+  - An average result in the Rat Empire cloning factory. One leg has a missing toe.
+  - The result of a mistake in the Rat Empire cloning factory. Color-blind.
+  - The result of a mistake in the cloning tubes. Only one ear.
+  - The result of a bureaucratic mistake in the warrior cloning department. Missing
+    fingers.
+  - The result of a bureaucratic mistake in the cloning department. Tail has "obscene"
+    fur color.
+  - A Vexian who transplanted their brain into a rat body. Misses the mollusc days.
+  - A flavor memory collector. Collects flavors into their internal memorybank.
+  - A drink flavor memory collector. Collects flavors of best drinks by memorizing
+    them naturally.
+  - Outcast from a very competitive Rat society. DNA credentials show "second-grade"
+    genes.
+  - Outcast from a remote Rat colony. DNA credentials show "out of fashion" genes.
+  - Outcast from a brutal Rat society. DNA credentials show "totally outdated" genes.
+  - Outcast from a successful Rat colony. DNA credentials show "unfashionable" genes.
+  dontLocalizeHint: 0
+  maxLengthHint: 250
+  prefabId: 1528824749
