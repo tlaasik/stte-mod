@@ -23,22 +23,22 @@ Now it is time to mention that some parts of the game use Unity plugins that are
 
 Root folder of the stte-mod repo can be opened in Unity Editor as a project. The project is made in Unity Editor version 2018.4.10f1. Later versions, especially latest 2018.4 iteration, may work too, but is not tested. (download link: https://unity3d.com/unity/qa/lts-releases?version=2018.4&page=2). In Unity Editor, only Assets/ folder contents are directly visible. Assets/RST/ contents are auto-generated from our main project and its contents will change whenever a new game build is made public.
 
-* Assets/RST/Prefabs/
+* **Assets/RST/Prefabs/**
 Each ship, ship module, ship module slot, crewmember, etc is one prefab. These are either complete prefabs where you can see full transform hierarchy, all used components and referenced assets (sprites, animations, audio clips, etc), or empty prefabs with just an ExternalPrefab component. Those are used in place of a complete prefab where it needs to be referenced.
 
-* Assets/Plugins/
+* **Assets/Plugins/**
 Most of the script assemblies (dll) that the game uses are in here. These are not exactly the same as in the released game build. Here we have some Unity Editor related parts left in, otherwise some of our editor tools included here wouldn't work.
 
-* Assets/RST/Animations/, Assets/RST/Materials/, Assets/RST/Sounds/ and Assets/RST/Textures/
+* **Assets/RST/Animations/**, **Assets/RST/Materials/**, **Assets/RST/Sounds/** and **Assets/RST/Textures/**
 Here are the assets that prefabs use. In stte-mod we only include assets that are used by complete prefabs.
 
-* Assets/Example content/
+* **Assets/Example content/**
 Here is an example to demonstrate how a mod source structure may look like. It is set up to add and replace some items in the game. To get it into the game, an asset bundle has to be created from this.
 
-* AssetBundles/
+* **AssetBundles/**
 Built asset bundles will be placed here.
 
-* other folders outside Assets/
+* other folders outside **Assets/**
 These are used for various purposes by Unity, just leave them as is.
 
 # Prefabs
