@@ -4881,18 +4881,24 @@ MonoBehaviour:
     ignoresShield: 1
     neverDeflect: 1
     damageTokenPrefabRef:
+      prefab: {fileID: 136216, guid: e491d80968ee2e040a3fbb80c6e5fd0c, type: 3}
       prefabId: 1065998373
   overrideEffects:
     explosionPoolRef:
-      prefabId: 0
+      prefab: {fileID: 1230935099067382, guid: 694e4adbabf422142af9689fd9db481a, type: 3}
+      prefabId: 1689057880
     explosionOnShieldPoolRef:
+      prefab: {fileID: 0}
       prefabId: 0
     explosionOnSelfDestructPoolRef:
+      prefab: {fileID: 0}
       prefabId: 0
     deflectPoolRef:
+      prefab: {fileID: 0}
       prefabId: 0
   spawnIntruderCount: 0
   spawnIntruderPrefabRef:
+    prefab: {fileID: 0}
     prefabId: 0
   displayName: Happy nuke
   speed: 0.4

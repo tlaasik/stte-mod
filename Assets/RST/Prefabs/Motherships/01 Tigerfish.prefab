@@ -12443,7 +12443,7 @@ MonoBehaviour:
       prefabId: 0
     explosionPoolRef:
       prefab: {fileID: 100006, guid: 5b0ddd8a254f0ad4d86d1107c482f000, type: 3}
-      prefabId: 0
+      prefabId: 1418766336
     powerLinePrefabRef:
       prefab: {fileID: 0}
       prefabId: 0

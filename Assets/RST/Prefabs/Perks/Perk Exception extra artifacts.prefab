@@ -63,9 +63,11 @@ MonoBehaviour:
   extraCrewDescripionOverride: 
   extraModules:
   - prefabRefs:
-    - prefabId: 1154854718
+    - prefab: {fileID: 136216, guid: 04f51b0ea75115c40ab6196ca72c7d51, type: 3}
+      prefabId: 1154854718
   - prefabRefs:
-    - prefabId: 1154854718
+    - prefab: {fileID: 136216, guid: 04f51b0ea75115c40ab6196ca72c7d51, type: 3}
+      prefabId: 1154854718
   moduleReplacements: []
   randomizerMenuStrings:
   - +2 artifacts

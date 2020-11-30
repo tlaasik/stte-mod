@@ -64,8 +64,10 @@ MonoBehaviour:
   extraModules: []
   moduleReplacements:
   - oldModulePrefabRef:
+      prefab: {fileID: 142618, guid: 0546217bb3a86ff49b7cb1a712757e9e, type: 3}
       prefabId: 1521997681
     newModulePrefabRef:
+      prefab: {fileID: 171642, guid: 347f859fda64de14caa515b765eed561, type: 3}
       prefabId: 1281856982
   randomizerMenuStrings:
   - Improves ship cannons x2

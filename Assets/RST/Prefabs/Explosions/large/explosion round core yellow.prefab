@@ -13842,7 +13842,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 400006}
-  - component: {fileID: 114952067792435500}
+  - component: {fileID: 114027985105853602}
   - component: {fileID: 82588324898561788}
   m_Layer: 13
   m_Name: explosion round core yellow
@@ -13868,7 +13868,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &114952067792435500
+--- !u!114 &114027985105853602
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -13877,11 +13877,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 100006}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 763318466, guid: 92b22081e557a6b4d95662eaa9d01431, type: 3}
+  m_Script: {fileID: -1789155881, guid: 92b22081e557a6b4d95662eaa9d01431, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delay: 5
-  realtime: 0
+  directional: 0
+  destroyDelay: 5
+  createDamageSpot: 0
+  damageSpotVisuals: {fileID: 0}
+  damageSpotRadius: 1
+  raycastMask:
+    serializedVersion: 2
+    m_Bits: 0
+  prefabId: 1418766336
 --- !u!82 &82588324898561788
 AudioSource:
   m_ObjectHideFlags: 0

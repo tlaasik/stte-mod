@@ -2847,16 +2847,16 @@ MonoBehaviour:
       maxValue: 0.05
       buckets: []
     namePoolRef:
-      prefab: {fileID: 0}
-      prefabId: 0
+      prefab: {fileID: 1776441704917190, guid: 611b3f2337ee81a41b77a77a61cda0a0, type: 3}
+      prefabId: 1710779352
     name: 
     descriptionPoolRef:
-      prefab: {fileID: 0}
-      prefabId: 0
+      prefab: {fileID: 1776441704917190, guid: 7d77abf5c85e5f14ba01cbcc345550c2, type: 3}
+      prefabId: 450630272
     description: 
     handWeaponPoolRef:
-      prefab: {fileID: 0}
-      prefabId: 0
+      prefab: {fileID: 1668984710024660, guid: 4c1031d4221538140a8b694700db5476, type: 3}
+      prefabId: 82876487
   - comment: Unskilled
     animController: {fileID: 9100000, guid: 3c5ae6a1c5e6dcc468d4190ef5f751d7, type: 2}
     coloredAvatarSprite: {fileID: 21300000, guid: 77245a81b2f15954a983d97c17ad5ff9,
@@ -3020,16 +3020,16 @@ MonoBehaviour:
       maxValue: 0.05
       buckets: []
     namePoolRef:
-      prefab: {fileID: 0}
-      prefabId: 0
+      prefab: {fileID: 1776441704917190, guid: 611b3f2337ee81a41b77a77a61cda0a0, type: 3}
+      prefabId: 1710779352
     name: 
     descriptionPoolRef:
-      prefab: {fileID: 0}
-      prefabId: 0
+      prefab: {fileID: 1776441704917190, guid: fd42e37e72b99e241b1bfd16155f193b, type: 3}
+      prefabId: 1621701858
     description: 
     handWeaponPoolRef:
-      prefab: {fileID: 0}
-      prefabId: 0
+      prefab: {fileID: 1697438777719958, guid: 7d197b844fe0d6e4aac35ce07ca7a786, type: 3}
+      prefabId: 1878534267
 --- !u!114 &11408790
 MonoBehaviour:
   m_ObjectHideFlags: 0

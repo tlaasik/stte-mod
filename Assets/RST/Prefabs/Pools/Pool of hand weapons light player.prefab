@@ -47,11 +47,19 @@ MonoBehaviour:
   ignoreNulls: 0
   ignoreTypeMismatches: 0
   items:
-  - prefabId: 0
-  - prefabId: 0
-  - prefabId: 0
-  - prefabId: 0
-  - prefabId: 0
-  - prefabId: 0
-  - prefabId: 0
+  - prefab: {fileID: 1697438777719958, guid: 7d197b844fe0d6e4aac35ce07ca7a786, type: 3}
+    prefabId: 1878534267
+  - prefab: {fileID: 1587492833313460, guid: adeb6032cb0188d40a21f749863497f6, type: 3}
+    prefabId: 2126525717
+  - prefab: {fileID: 1587492833313460, guid: adeb6032cb0188d40a21f749863497f6, type: 3}
+    prefabId: 2126525717
+  - prefab: {fileID: 1587492833313460, guid: a34d934905b2e024f8944f726190c47d, type: 3}
+    prefabId: 933952449
+  - prefab: {fileID: 1668984710024660, guid: 4c1031d4221538140a8b694700db5476, type: 3}
+    prefabId: 82876487
+  - prefab: {fileID: 1587492833313460, guid: 428263ee5dfc7914791567f64fb1636e, type: 3}
+    prefabId: 1290431182
+  - prefab: {fileID: 1587492833313460, guid: 3bcc465ae1727d7408947808f093e33c, type: 3}
+    prefabId: 1035392137
   prefabId: 907997768
+  sourceFolder: 

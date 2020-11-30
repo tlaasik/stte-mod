@@ -64,11 +64,14 @@ MonoBehaviour:
   extraCrewDescripionOverride: 
   extraModules:
   - prefabRefs:
-    - prefabId: 236853983
+    - prefab: {fileID: 113684, guid: 96dab957767b671418df2288b2bb6542, type: 3}
+      prefabId: 236853983
   - prefabRefs:
-    - prefabId: 236853983
+    - prefab: {fileID: 113684, guid: 96dab957767b671418df2288b2bb6542, type: 3}
+      prefabId: 236853983
   - prefabRefs:
-    - prefabId: 236853983
+    - prefab: {fileID: 113684, guid: 96dab957767b671418df2288b2bb6542, type: 3}
+      prefabId: 236853983
   moduleReplacements: []
   randomizerMenuStrings:
   - +3 ECM modules

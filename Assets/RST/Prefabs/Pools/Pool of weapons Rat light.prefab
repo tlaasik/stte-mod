@@ -47,8 +47,13 @@ MonoBehaviour:
   ignoreNulls: 0
   ignoreTypeMismatches: 0
   items:
-  - prefabId: 0
-  - prefabId: 0
-  - prefabId: 0
-  - prefabId: 0
+  - prefab: {fileID: 104280, guid: ea54102eaa258244787edfe089dc84f2, type: 3}
+    prefabId: 1662502911
+  - prefab: {fileID: 104280, guid: ea54102eaa258244787edfe089dc84f2, type: 3}
+    prefabId: 1662502911
+  - prefab: {fileID: 112620, guid: fcd097136fa2d2947be398886cc0d366, type: 3}
+    prefabId: 1724240697
+  - prefab: {fileID: 156448, guid: ea7afae51d382ca4e860f7b26e2233d5, type: 3}
+    prefabId: 1345622970
   prefabId: 1533735753
+  sourceFolder: 

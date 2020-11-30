@@ -503,7 +503,7 @@ MonoBehaviour:
     doorDmg: 1
   explosionPoolRef:
     prefab: {fileID: 1606113170137294, guid: d51d3d1a01944734ebe57a69c03badcd, type: 3}
-    prefabId: 0
+    prefabId: 698023933
   endPos: {fileID: 4287629761796244}
   targetGo: {fileID: 0}
   lifetime: 0.1

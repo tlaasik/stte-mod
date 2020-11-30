@@ -63,7 +63,8 @@ MonoBehaviour:
   extraCrewDescripionOverride: 
   extraModules:
   - prefabRefs:
-    - prefabId: 686511980
+    - prefab: {fileID: 1718752074750222, guid: 96b62871ccb75a244bbf244640c9b26c, type: 3}
+      prefabId: 686511980
   moduleReplacements: []
   randomizerMenuStrings:
   - +1 capital missile

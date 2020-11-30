@@ -64,8 +64,10 @@ MonoBehaviour:
   extraModules: []
   moduleReplacements:
   - oldModulePrefabRef:
+      prefab: {fileID: 115320, guid: 35902f5b8f812be42ab00b0e77253dd2, type: 3}
       prefabId: 176876935
     newModulePrefabRef:
+      prefab: {fileID: 118980, guid: dce6c0e42f304f341a04790466c2cff6, type: 3}
       prefabId: 176876934
   randomizerMenuStrings:
   - Improves ship beam weapon

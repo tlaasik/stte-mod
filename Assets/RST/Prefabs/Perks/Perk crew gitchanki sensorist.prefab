@@ -62,7 +62,8 @@ MonoBehaviour:
   addShipAccuracyPercent: 0
   extraCrew:
   - prefabRefs:
-    - prefabId: 122402207
+    - prefab: {fileID: 106396, guid: 4df7ab1c12c5f41498e29eae2ce06df8, type: 3}
+      prefabId: 122402207
   extraCrewChooseWithMatchingComment: astronomer
   extraCrewDisplayNameOverride: 
   extraCrewDescripionOverride: 

@@ -53,9 +53,9 @@ MonoBehaviour:
   priority: 0
   showInMenu: 1
   description: "Captains log:\n\n/.../ A warpdrive malfunction has landed us in the
-    wrong \rplace, light years away from Earth. We are almost out of fuel. Supplies
-    are running\r out. \nSome crew have been <color=red>injured</color> and some equipment
-    is not working. Personally,\r I find all of this not too bad because /.../"
+    wrong place, light years away from Earth. We are almost out of fuel. Supplies
+    are running out. \nSome crew have been <color=red>injured</color> and some equipment
+    is not working. Personally, I find all of this not too bad because /.../"
   menuSprite: {fileID: 21300000, guid: 41e5bdca9d6c05249856ca71ca11f7ab, type: 3}
   overrideLockedDisplayName: 
   overrideLockedDescription: This space sector is the closest one we reached, it's
@@ -65,12 +65,14 @@ MonoBehaviour:
   startFatePoints: 31
   canStartFromThis: 1
   sectorEndUnlockablePerkPoolRef:
+    prefab: {fileID: 136216, guid: f186f0378b9b0e04ca28b343a6c9f53d, type: 3}
     prefabId: 1862263725
   otherUnlockablePerkPrefabRefs: []
   mapWidth: 1600
   mapHeight: 900
   colorTint: {r: 1, g: 0.5661765, b: 0.5661765, a: 1}
   sosPoiPoolRef:
+    prefab: {fileID: 136216, guid: 0d189f94feec8544b95650424601c8b6, type: 3}
     prefabId: 137561738
   flipBackgroundsRandomly: 1
   warpLinesContainer: {fileID: 4444799687549588}
@@ -90,13 +92,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   starmapTemplatePoolRef:
+    prefab: {fileID: 136216, guid: 37ba28d9bd198d449b90081508d0a88c, type: 3}
     prefabId: 577831020
   placeConfs:
   - comment: Gen 7 asteroidbelts, centered on stars
     count: 7
     allowDuplicates: 1
     prefabPoolRefs:
-    - prefabId: 1983685365
+    - prefab: {fileID: 136216, guid: b9bffd7035c84b8458a059cfc8eebcb5, type: 3}
+      prefabId: 1983685365
     placement: 6
     minRadius: 0
     maxRadius: 0
@@ -107,7 +111,8 @@ MonoBehaviour:
     count: 7
     allowDuplicates: 1
     prefabPoolRefs:
-    - prefabId: 945822054
+    - prefab: {fileID: 136216, guid: f60ed466b21b81743ab2e6208e4efc51, type: 3}
+      prefabId: 945822054
     placement: 6
     minRadius: 0
     maxRadius: 0
@@ -118,7 +123,8 @@ MonoBehaviour:
     count: 37
     allowDuplicates: 1
     prefabPoolRefs:
-    - prefabId: 1743670262
+    - prefab: {fileID: 136216, guid: 194730ba100ddc04da7e6bf9a16b4d68, type: 3}
+      prefabId: 1743670262
     placement: 1
     minRadius: 28
     maxRadius: 60
@@ -129,8 +135,10 @@ MonoBehaviour:
     count: 2
     allowDuplicates: 1
     prefabPoolRefs:
-    - prefabId: 1257096348
-    - prefabId: 1646690894
+    - prefab: {fileID: 1000010566975528, guid: f18dbe7f8e3e5b044996a18932e04b4b, type: 3}
+      prefabId: 1257096348
+    - prefab: {fileID: 1000010566975528, guid: f22f4733fb2fe78498a5572f1f1f191f, type: 3}
+      prefabId: 1646690894
     placement: 1
     minRadius: 10
     maxRadius: 50
@@ -141,10 +149,14 @@ MonoBehaviour:
     count: 4
     allowDuplicates: 0
     prefabPoolRefs:
-    - prefabId: 264922758
-    - prefabId: 1524093471
-    - prefabId: 50108932
-    - prefabId: 923638935
+    - prefab: {fileID: 187126, guid: e58088371051caa48874bda0e467e3ae, type: 3}
+      prefabId: 264922758
+    - prefab: {fileID: 187126, guid: 413335de57366fa49bc8dd68592aa181, type: 3}
+      prefabId: 1524093471
+    - prefab: {fileID: 187126, guid: 103f695b10e616943b3afa2dc01aa80d, type: 3}
+      prefabId: 50108932
+    - prefab: {fileID: 187126, guid: ff2eac8c3ba28e441a0c5f0da1b4e472, type: 3}
+      prefabId: 923638935
     placement: 1
     minRadius: 17
     maxRadius: 45
@@ -155,13 +167,20 @@ MonoBehaviour:
     count: 2
     allowDuplicates: 0
     prefabPoolRefs:
-    - prefabId: 1186333280
-    - prefabId: 50108932
-    - prefabId: 2098450648
-    - prefabId: 971812961
-    - prefabId: 1524093471
-    - prefabId: 1730588090
-    - prefabId: 1390233795
+    - prefab: {fileID: 187126, guid: 8c112f2ddd56da24a9607fef87ae55ee, type: 3}
+      prefabId: 1186333280
+    - prefab: {fileID: 187126, guid: 103f695b10e616943b3afa2dc01aa80d, type: 3}
+      prefabId: 50108932
+    - prefab: {fileID: 187126, guid: 9b713f9d3fb4c0348acd14c2f25d8757, type: 3}
+      prefabId: 2098450648
+    - prefab: {fileID: 187126, guid: ea1b8568f13a7fd45846c4f5068cdda2, type: 3}
+      prefabId: 971812961
+    - prefab: {fileID: 187126, guid: 413335de57366fa49bc8dd68592aa181, type: 3}
+      prefabId: 1524093471
+    - prefab: {fileID: 187126, guid: 5f38d567aa3086b4f8de735827ba99da, type: 3}
+      prefabId: 1730588090
+    - prefab: {fileID: 187126, guid: 4064f92a5af94854e896782c03747ab5, type: 3}
+      prefabId: 1390233795
     placement: 1
     minRadius: 17
     maxRadius: 45
@@ -172,89 +191,122 @@ MonoBehaviour:
     count: 6..7
     allowDuplicates: 0
     prefabPoolRefs:
-    - prefabId: 1360306603
+    - prefab: {fileID: 136216, guid: 32997f729071dc14faa036c170e66d24, type: 3}
+      prefabId: 1360306603
     placement: 1
     minRadius: 17
     maxRadius: 45
     minDistance: 30
     namePOIs: 1
     addAsteroidsByChance:
-    - prefabId: 1257096348
-    - prefabId: 1672692003
-    - prefabId: 89308002
-    - prefabId: 381769936
-    - prefabId: 1646690894
+    - prefab: {fileID: 1000010566975528, guid: f18dbe7f8e3e5b044996a18932e04b4b, type: 3}
+      prefabId: 1257096348
+    - prefab: {fileID: 1000010566975528, guid: b681482355c4e6547a6100db292e4d36, type: 3}
+      prefabId: 1672692003
+    - prefab: {fileID: 1000010566975528, guid: f4f3e03614e427d44a952a50e2fd1a7b, type: 3}
+      prefabId: 89308002
+    - prefab: {fileID: 1000010566975528, guid: 29af4360d35e80b4d9eb7e9868a5f7f9, type: 3}
+      prefabId: 381769936
+    - prefab: {fileID: 1000010566975528, guid: f22f4733fb2fe78498a5572f1f1f191f, type: 3}
+      prefabId: 1646690894
   - comment: Gen 1..2 L1 multilevel pois (pool 11) + poiasteroids
     count: 1..2
     allowDuplicates: 0
     prefabPoolRefs:
-    - prefabId: 1709520594
+    - prefab: {fileID: 136216, guid: 02a8430131904534dbb495ffe2b8bfc6, type: 3}
+      prefabId: 1709520594
     placement: 1
     minRadius: 17
     maxRadius: 45
     minDistance: 30
     namePOIs: 1
     addAsteroidsByChance:
-    - prefabId: 1257096348
-    - prefabId: 1672692003
-    - prefabId: 89308002
-    - prefabId: 381769936
-    - prefabId: 1646690894
+    - prefab: {fileID: 1000010566975528, guid: f18dbe7f8e3e5b044996a18932e04b4b, type: 3}
+      prefabId: 1257096348
+    - prefab: {fileID: 1000010566975528, guid: b681482355c4e6547a6100db292e4d36, type: 3}
+      prefabId: 1672692003
+    - prefab: {fileID: 1000010566975528, guid: f4f3e03614e427d44a952a50e2fd1a7b, type: 3}
+      prefabId: 89308002
+    - prefab: {fileID: 1000010566975528, guid: 29af4360d35e80b4d9eb7e9868a5f7f9, type: 3}
+      prefabId: 381769936
+    - prefab: {fileID: 1000010566975528, guid: f22f4733fb2fe78498a5572f1f1f191f, type: 3}
+      prefabId: 1646690894
   - comment: Gen 7..8 exopois (pool 8+) + poiasteroids
     count: 7..8
     allowDuplicates: 1
     prefabPoolRefs:
-    - prefabId: 1213410665
+    - prefab: {fileID: 136216, guid: b3ad999f204652e488997efa5f18fa93, type: 3}
+      prefabId: 1213410665
     placement: 1
     minRadius: 17
     maxRadius: 45
     minDistance: 30
     namePOIs: 1
     addAsteroidsByChance:
-    - prefabId: 1257096348
-    - prefabId: 1672692003
-    - prefabId: 89308002
-    - prefabId: 381769936
-    - prefabId: 1646690894
+    - prefab: {fileID: 1000010566975528, guid: f18dbe7f8e3e5b044996a18932e04b4b, type: 3}
+      prefabId: 1257096348
+    - prefab: {fileID: 1000010566975528, guid: b681482355c4e6547a6100db292e4d36, type: 3}
+      prefabId: 1672692003
+    - prefab: {fileID: 1000010566975528, guid: f4f3e03614e427d44a952a50e2fd1a7b, type: 3}
+      prefabId: 89308002
+    - prefab: {fileID: 1000010566975528, guid: 29af4360d35e80b4d9eb7e9868a5f7f9, type: 3}
+      prefabId: 381769936
+    - prefab: {fileID: 1000010566975528, guid: f22f4733fb2fe78498a5572f1f1f191f, type: 3}
+      prefabId: 1646690894
   - comment: Gen 1 warplife (pool of 2)+ poiasteroids
     count: 1
     allowDuplicates: 0
     prefabPoolRefs:
-    - prefabId: 1280313946
+    - prefab: {fileID: 136216, guid: b0c09bd3a9d61ff4a86ee34e584c3195, type: 3}
+      prefabId: 1280313946
     placement: 2
     minRadius: 17
     maxRadius: 45
     minDistance: 30
     namePOIs: 1
     addAsteroidsByChance:
-    - prefabId: 1257096348
-    - prefabId: 1672692003
-    - prefabId: 89308002
-    - prefabId: 381769936
-    - prefabId: 1646690894
+    - prefab: {fileID: 1000010566975528, guid: f18dbe7f8e3e5b044996a18932e04b4b, type: 3}
+      prefabId: 1257096348
+    - prefab: {fileID: 1000010566975528, guid: b681482355c4e6547a6100db292e4d36, type: 3}
+      prefabId: 1672692003
+    - prefab: {fileID: 1000010566975528, guid: f4f3e03614e427d44a952a50e2fd1a7b, type: 3}
+      prefabId: 89308002
+    - prefab: {fileID: 1000010566975528, guid: 29af4360d35e80b4d9eb7e9868a5f7f9, type: 3}
+      prefabId: 381769936
+    - prefab: {fileID: 1000010566975528, guid: f22f4733fb2fe78498a5572f1f1f191f, type: 3}
+      prefabId: 1646690894
   - comment: Gen 1 "worhtless" pois + poiasteroids
     count: 1
     allowDuplicates: 1
     prefabPoolRefs:
-    - prefabId: 758686165
-    - prefabId: 1689095299
-    - prefabId: 346380047
+    - prefab: {fileID: 187126, guid: 7ca29ae97545e144dbf8d3006a03e4cc, type: 3}
+      prefabId: 758686165
+    - prefab: {fileID: 187126, guid: bcae9249e65ae8e488f467e4bc0858d9, type: 3}
+      prefabId: 1689095299
+    - prefab: {fileID: 187126, guid: 41f26de88d890de4e9741d20e75fd652, type: 3}
+      prefabId: 346380047
     placement: 1
     minRadius: 17
     maxRadius: 45
     minDistance: 30
     namePOIs: 1
     addAsteroidsByChance:
-    - prefabId: 1257096348
-    - prefabId: 1672692003
-    - prefabId: 89308002
-    - prefabId: 381769936
-    - prefabId: 1646690894
+    - prefab: {fileID: 1000010566975528, guid: f18dbe7f8e3e5b044996a18932e04b4b, type: 3}
+      prefabId: 1257096348
+    - prefab: {fileID: 1000010566975528, guid: b681482355c4e6547a6100db292e4d36, type: 3}
+      prefabId: 1672692003
+    - prefab: {fileID: 1000010566975528, guid: f4f3e03614e427d44a952a50e2fd1a7b, type: 3}
+      prefabId: 89308002
+    - prefab: {fileID: 1000010566975528, guid: 29af4360d35e80b4d9eb7e9868a5f7f9, type: 3}
+      prefabId: 381769936
+    - prefab: {fileID: 1000010566975528, guid: f22f4733fb2fe78498a5572f1f1f191f, type: 3}
+      prefabId: 1646690894
   - comment: Gen and link warpgates
     count: 2
     allowDuplicates: 1
     prefabPoolRefs:
-    - prefabId: 1555069814
+    - prefab: {fileID: 198366, guid: f9fc92302a877534abab543839ffa589, type: 3}
+      prefabId: 1555069814
     placement: 1
     minRadius: 15
     maxRadius: 25
@@ -265,11 +317,16 @@ MonoBehaviour:
     count: 5
     allowDuplicates: 0
     prefabPoolRefs:
-    - prefabId: 1671144089
-    - prefabId: 855505012
-    - prefabId: 391055130
-    - prefabId: 1207391357
-    - prefabId: 1153947066
+    - prefab: {fileID: 163866, guid: baf354ea4d3696f4cabae7fd1490e942, type: 3}
+      prefabId: 1671144089
+    - prefab: {fileID: 163866, guid: da16eb4a44eeb334190ab297e4248371, type: 3}
+      prefabId: 855505012
+    - prefab: {fileID: 163866, guid: 88e0f70d4b4c07541b7df69483b3259c, type: 3}
+      prefabId: 391055130
+    - prefab: {fileID: 163866, guid: 1bbcc396940ed484494b24ff66029dd6, type: 3}
+      prefabId: 1207391357
+    - prefab: {fileID: 163866, guid: 87103405275f72a4b8222a77ce35fb3e, type: 3}
+      prefabId: 1153947066
     placement: 101
     minRadius: 0
     maxRadius: 0
@@ -280,9 +337,12 @@ MonoBehaviour:
     count: 1
     allowDuplicates: 1
     prefabPoolRefs:
-    - prefabId: 920239719
-    - prefabId: 988324602
-    - prefabId: 2087738259
+    - prefab: {fileID: 163866, guid: 66d3c17dd67f89e4c921c24926ec0e8e, type: 3}
+      prefabId: 920239719
+    - prefab: {fileID: 163866, guid: 7474691f8c1658d4698da7e6b245a339, type: 3}
+      prefabId: 988324602
+    - prefab: {fileID: 163866, guid: 0e11ef31d5832e54aa421556be47101b, type: 3}
+      prefabId: 2087738259
     placement: 101
     minRadius: 0
     maxRadius: 0
@@ -293,10 +353,14 @@ MonoBehaviour:
     count: 3
     allowDuplicates: 0
     prefabPoolRefs:
-    - prefabId: 1334825903
-    - prefabId: 864844728
-    - prefabId: 287899973
-    - prefabId: 671722538
+    - prefab: {fileID: 163866, guid: 1369d270f10381e4982b935bb683c04f, type: 3}
+      prefabId: 1334825903
+    - prefab: {fileID: 163866, guid: 30ebadaa731e1034f98cd52c68898953, type: 3}
+      prefabId: 864844728
+    - prefab: {fileID: 163866, guid: cc204dec04fb63a4b87b09a4732774ec, type: 3}
+      prefabId: 287899973
+    - prefab: {fileID: 163866, guid: d17f03fa23328b54db21dd6823ec17db, type: 3}
+      prefabId: 671722538
     placement: 101
     minRadius: 0
     maxRadius: 0
@@ -307,8 +371,10 @@ MonoBehaviour:
     count: 2
     allowDuplicates: 0
     prefabPoolRefs:
-    - prefabId: 178216418
-    - prefabId: 1186333280
+    - prefab: {fileID: 187126, guid: 96649a2722f1205478404c7ea1b0760d, type: 3}
+      prefabId: 178216418
+    - prefab: {fileID: 187126, guid: 8c112f2ddd56da24a9607fef87ae55ee, type: 3}
+      prefabId: 1186333280
     placement: 3
     minRadius: 17
     maxRadius: 49
@@ -319,7 +385,8 @@ MonoBehaviour:
     count: 1
     allowDuplicates: 0
     prefabPoolRefs:
-    - prefabId: 866359355
+    - prefab: {fileID: 155872, guid: 94b3c7a3910e22346bb7ad6955c04820, type: 3}
+      prefabId: 866359355
     placement: 4
     minRadius: 13
     maxRadius: 17
@@ -330,10 +397,14 @@ MonoBehaviour:
     count: 1
     allowDuplicates: 0
     prefabPoolRefs:
-    - prefabId: 1553748370
-    - prefabId: 547665892
-    - prefabId: 1730588090
-    - prefabId: 421541138
+    - prefab: {fileID: 187126, guid: 08a41c1b6599d0e4b9c2cd67cbeade8c, type: 3}
+      prefabId: 1553748370
+    - prefab: {fileID: 187126, guid: 63d8c1a87111f8b4197ef12de73fd728, type: 3}
+      prefabId: 547665892
+    - prefab: {fileID: 187126, guid: 5f38d567aa3086b4f8de735827ba99da, type: 3}
+      prefabId: 1730588090
+    - prefab: {fileID: 187126, guid: 960567345f1c5b0438930ed1ee48a0d9, type: 3}
+      prefabId: 421541138
     placement: 4
     minRadius: 13
     maxRadius: 17

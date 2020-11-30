@@ -47,13 +47,23 @@ MonoBehaviour:
   ignoreNulls: 0
   ignoreTypeMismatches: 0
   items:
-  - prefabId: 0
-  - prefabId: 0
-  - prefabId: 0
-  - prefabId: 0
-  - prefabId: 0
-  - prefabId: 0
-  - prefabId: 0
-  - prefabId: 0
-  - prefabId: 0
+  - prefab: {fileID: 1000013637287400, guid: aa911bc1f13522941a6a291c7c6b10e2, type: 3}
+    prefabId: 562192773
+  - prefab: {fileID: 1000014272784938, guid: 123f78af50db14b4390569372e71d953, type: 3}
+    prefabId: 562192772
+  - prefab: {fileID: 1000010042338302, guid: f3876c20c378c234ebbc7408223d111d, type: 3}
+    prefabId: 562192771
+  - prefab: {fileID: 1000011939088800, guid: 54e8b9161c6a6f34cb2dfb55796c7236, type: 3}
+    prefabId: 562192770
+  - prefab: {fileID: 1000013371046904, guid: e123fa6b2f237cc4497b859c6ae42792, type: 3}
+    prefabId: 562192769
+  - prefab: {fileID: 163866, guid: 72e3d293917ebea4d976f396d1360a18, type: 3}
+    prefabId: 562192768
+  - prefab: {fileID: 1000012300690176, guid: 9f4fb036d818df143962e15a48d5f003, type: 3}
+    prefabId: 562192767
+  - prefab: {fileID: 1000012420091998, guid: 4e9346c59c7340a46ac48997fa903e30, type: 3}
+    prefabId: 562192782
+  - prefab: {fileID: 1000011129774824, guid: 59c3fcd65b183614993f561aebe65ee0, type: 3}
+    prefabId: 118330302
   prefabId: 85008040
+  sourceFolder: 
